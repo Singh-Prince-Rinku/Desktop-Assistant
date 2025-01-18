@@ -73,7 +73,7 @@ def ChatBot(Query):
         
         # Ensure the model you are using is available and correct
         completion = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",  # This is a commonly used valid model for many APIs.
+            model="gemma2-9b-it",  # This is a commonly used valid model for many APIs.
             messages=SystemChatBot + [{"role": "system", "content": RealtimeInformation()}] + message,
             max_tokens=2048,
             temperature=0.5,

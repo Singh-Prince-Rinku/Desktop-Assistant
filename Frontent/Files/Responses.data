@@ -1,1 +1,1 @@
-Lyra: An error occurred: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jhndvc4cfy9tgysmwka9m0jv` service tier `on_demand` on : Limit 100000, Used 99875, Requested 209. Please try again in 1m12.002s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+Lyra: Good night!  Sleep well.

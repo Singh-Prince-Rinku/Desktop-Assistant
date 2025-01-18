@@ -89,7 +89,7 @@ def RealtimeSearchEngine(prompt):
     # Ensure that all messages are in the correct format
     # Now the message format is properly set with valid 'role' values (system, user, assistant)
     completion = client.chat.completions.create(
-        model="llama-3.3-70b-versatile", 
+        model="gemma2-9b-it", 
         messages=SystemChatBot + [{"role": "system", "content": Information()}] + message,
         max_tokens=2048,
         temperature=0.7,
