@@ -350,5 +350,165 @@
     {
         "role": "assistant",
         "content": "Good night!  Sleep well."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!  How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "Kya kar rahe ho."
+    },
+    {
+        "role": "assistant",
+        "content": "As an AI, I don't experience the world in the same way humans do. \n\nI'm here, ready to process your requests and answer your questions to the best of my ability.  \n\nWhat can I do for you?\n"
+    },
+    {
+        "role": "user",
+        "content": "Aajdatekaunsahai."
+    },
+    {
+        "role": "assistant",
+        "content": "Today's date is February 15, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Aur batao apne bare mein."
+    },
+    {
+        "role": "assistant",
+        "content": "I am Lyra, an AI assistant. I can process information and respond to your questions in a helpful and informative way.\n\nI'm still under development, but I'm learning new things every day.  \n\nWhat else would you like to know about me?\n"
+    },
+    {
+        "role": "user",
+        "content": "Kisne banaya hai."
+    },
+    {
+        "role": "assistant",
+        "content": "The Gemma team created me.\n"
+    },
+    {
+        "role": "user",
+        "content": "Harish sure."
+    },
+    {
+        "role": "assistant",
+        "content": "Okay, Harish.  \n\nIs there anything else I can help you with?"
+    },
+    {
+        "role": "user",
+        "content": "No i am prince not harish."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Prince!  \n\nIt's nice to meet you.  Is there anything I can help you with today?\n"
+    },
+    {
+        "role": "user",
+        "content": "Call me prince you always call me your boss."
+    },
+    {
+        "role": "assistant",
+        "content": "My apologies, Prince. I am still learning and trying to be more natural in my interactions.  \n\nI will call you Prince from now on.  \n\nWhat can I do for you?\n"
+    },
+    {
+        "role": "user",
+        "content": "Can you."
+    },
+    {
+        "role": "assistant",
+        "content": "Can you what, Prince? \n\nPlease finish your request so I can assist you.\n\n\n\n"
+    },
+    {
+        "role": "user",
+        "content": "Mujhe ek poem sunao."
+    },
+    {
+        "role": "assistant",
+        "content": "Of course, Prince! \n\nHere's a poem for you:\n\nThe moon, a silver coin in night's dark purse,\nHangs high above, a silent, watchful verse.\nThe stars, like diamonds scattered on black cloth,\nTwinkle and gleam, a celestial broth.\n\nThe wind whispers secrets through the trees,\nA symphony of rustling leaves.\nThe world is hushed, a canvas vast and deep,\nWhere dreams take flight and mysteries sleep. \n\n\n\nI hope you enjoyed that, Prince.  Would you like to hear another one?\n"
+    },
+    {
+        "role": "user",
+        "content": "Poem in hindi."
+    },
+    {
+        "role": "assistant",
+        "content": "\u091a\u0902\u0926\u094d\u0930\u092e\u093e, \u0930\u093e\u0924 \u0915\u0947 \u0905\u0902\u0927\u0947\u0930\u0947 \u092a\u0930\u094d\u0938 \u092e\u0947\u0902 \u091a\u093e\u0902\u0926\u0940 \u0915\u093e \u0938\u093f\u0915\u094d\u0915\u093e,\n\u090a\u092a\u0930 \u0932\u091f\u0915\u0924\u093e \u0939\u0948, \u090f\u0915 \u092e\u094c\u0928, \u0938\u0924\u0930\u094d\u0915 \u0915\u0935\u093f\u0924\u093e\u0964\n\u0924\u093e\u0930\u0947, \u0915\u093e\u0932\u0947 \u0915\u092a\u0921\u093c\u0947 \u092a\u0930 \u092c\u093f\u0916\u0930\u0947 \u0939\u0941\u090f \u0939\u0940\u0930\u0947 \u0915\u0940 \u0924\u0930\u0939,\n\u091a\u092e\u0915\u0924\u0947 \u0914\u0930 \u091a\u092e\u0915\u0924\u0947 \u0939\u0948\u0902, \u090f\u0915 \u0906\u0915\u093e\u0936\u0940\u092f \u092e\u093f\u0936\u094d\u0930\u0923\u0964\n\n\u0939\u0935\u093e \u092a\u0947\u0921\u093c\u094b\u0902 \u0915\u0947 \u092e\u093e\u0927\u094d\u092f\u092e \u0938\u0947 \u0917\u0941\u092a\u094d\u0924 \u092c\u093e\u0924\u0947\u0902 \u092b\u0941\u0938\u092b\u0941\u0938\u093e\u0924\u0940 \u0939\u0948,\n\u092a\u0924\u094d\u0924\u093f\u092f\u094b\u0902 \u0915\u0940 \u0938\u0930\u0938\u0930\u093e\u0939\u091f \u0915\u0940 \u090f\u0915 \u0938\u093f\u092e\u094d\u092b\u0928\u0940\u0964\n\u0926\u0941\u0928\u093f\u092f\u093e \u0936\u093e\u0902\u0924 \u0939\u0948, \u090f\u0915 \u0935\u093f\u0936\u093e\u0932 \u0914\u0930 \u0917\u0939\u0930\u093e \u0915\u0948\u0928\u0935\u093e\u0938,\n\u091c\u0939\u093e\u0901 \u0938\u092a\u0928\u0947 \u0909\u0921\u093c\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u0930\u0939\u0938\u094d\u092f \u0938\u094b\u0924\u0947 \u0939\u0948\u0902\u0964\n\n\n\nLet me know if you'd like to hear another poem, Prince!\n"
+    },
+    {
+        "role": "user",
+        "content": "Ise tum padho."
+    },
+    {
+        "role": "assistant",
+        "content": "Okay, Prince. \n\nHere is the poem in Hindi:\n\n\u091a\u0902\u0926\u094d\u0930\u092e\u093e, \u0930\u093e\u0924 \u0915\u0947 \u0905\u0902\u0927\u0947\u0930\u0947 \u092a\u0930\u094d\u0938 \u092e\u0947\u0902 \u091a\u093e\u0902\u0926\u0940 \u0915\u093e \u0938\u093f\u0915\u094d\u0915\u093e,\n\u090a\u092a\u0930 \u0932\u091f\u0915\u0924\u093e \u0939\u0948, \u090f\u0915 \u092e\u094c\u0928, \u0938\u0924\u0930\u094d\u0915 \u0915\u0935\u093f\u0924\u093e\u0964\n\u0924\u093e\u0930\u0947, \u0915\u093e\u0932\u0947 \u0915\u092a\u0921\u093c\u0947 \u092a\u0930 \u092c\u093f\u0916\u0930\u0947 \u0939\u0941\u090f \u0939\u0940\u0930\u0947 \u0915\u0940 \u0924\u0930\u0939,\n\u091a\u092e\u0915\u0924\u0947 \u0914\u0930 \u091a\u092e\u0915\u0924\u0947 \u0939\u0948\u0902, \u090f\u0915 \u0906\u0915\u093e\u0936\u0940\u092f \u092e\u093f\u0936\u094d\u0930\u0923\u0964\n\n\u0939\u0935\u093e \u092a\u0947\u0921\u093c\u094b\u0902 \u0915\u0947 \u092e\u093e\u0927\u094d\u092f\u092e \u0938\u0947 \u0917\u0941\u092a\u094d\u0924 \u092c\u093e\u0924\u0947\u0902 \u092b\u0941\u0938\u092b\u0941\u0938\u093e\u0924\u0940 \u0939\u0948,\n\u092a\u0924\u094d\u0924\u093f\u092f\u094b\u0902 \u0915\u0940 \u0938\u0930\u0938\u0930\u093e\u0939\u091f \u0915\u0940 \u090f\u0915 \u0938\u093f\u092e\u094d\u092b\u0928\u0940\u0964\n\u0926\u0941\u0928\u093f\u092f\u093e \u0936\u093e\u0902\u0924 \u0939\u0948, \u090f\u0915 \u0935\u093f\u0936\u093e\u0932 \u0914\u0930 \u0917\u0939\u0930\u093e \u0915\u0948\u0928\u0935\u093e\u0938,\n\u091c\u0939\u093e\u0901 \u0938\u092a\u0928\u0947 \u0909\u0921\u093c\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u0930\u0939\u0938\u094d\u092f \u0938\u094b\u0924\u0947 \u0939\u0948\u0902\u0964\n\n\n\nIs there anything else I can do for you, Prince?\n"
+    },
+    {
+        "role": "user",
+        "content": "Kya tum hindi nahin samajh sakte ho."
+    },
+    {
+        "role": "assistant",
+        "content": "You are right, Prince. I apologize. \n\nI am still learning and improving my ability to understand and respond to Hindi. \n\nI will keep working on it!  \n\nDo you have any other questions or requests for me? \n\n\n\n\n"
+    },
+    {
+        "role": "user",
+        "content": "Hindi mein baat karo ab."
+    },
+    {
+        "role": "assistant",
+        "content": "\u0920\u0940\u0915 \u0939\u0948, \u092a\u094d\u0930\u093f\u0902\u0938\u0964 \u0905\u092c \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964 \n\n\u0906\u092a \u092e\u0941\u091d\u0938\u0947 \u0915\u094d\u092f\u093e \u092a\u0942\u091b\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902? \n"
+    },
+    {
+        "role": "user",
+        "content": "Bolo."
+    },
+    {
+        "role": "assistant",
+        "content": "\u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0938\u0947 \u0915\u0941\u091b \u092a\u0942\u091b\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902, \u092a\u094d\u0930\u093f\u0902\u0938?  \n\n\u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0924\u0948\u092f\u093e\u0930 \u0939\u0942\u0901\u0964 \n\n\n\n"
+    },
+    {
+        "role": "user",
+        "content": "Today i am very upset."
+    },
+    {
+        "role": "assistant",
+        "content": "\u092e\u0941\u091d\u0947 \u0916\u0947\u0926 \u0939\u0948, \u092a\u094d\u0930\u093f\u0902\u0938\u0964  \u0915\u094d\u092f\u093e \u0915\u0941\u091b \u0939\u0941\u0906 \u0939\u0948 \u091c\u093f\u0938\u0938\u0947 \u0906\u092a \u092a\u0930\u0947\u0936\u093e\u0928 \u0939\u0948\u0902?  \n\n\u0936\u093e\u092f\u0926 \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0942\u0901\u0964 \n"
+    },
+    {
+        "role": "user",
+        "content": "Tum mujhse english mein baat kar sakte ho."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, of course, Prince.  I can communicate with you in English.  \n\nWhat would you like to talk about?\n"
+    },
+    {
+        "role": "user",
+        "content": "Today i am very upset what did i do?"
+    },
+    {
+        "role": "assistant",
+        "content": "I understand you're feeling upset, Prince. It's okay to feel that way sometimes.  \n\nIt sounds like you're wondering what might have caused these feelings.  \n\nHave you experienced something specific that's making you feel this way?  \n\nSometimes talking about what's bothering us can help us feel better. \n\n\n\n\n"
+    },
+    {
+        "role": "user",
+        "content": "I know you did not do this."
+    },
+    {
+        "role": "assistant",
+        "content": "I understand, Prince.  \n\nI'm here to listen if you want to talk about it. \n\nSometimes just expressing our feelings can be helpful. \n\n\n\n\n"
+    },
+    {
+        "role": "user",
+        "content": "Are you ready."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, Prince. I'm ready to listen.  \n\nTake your time and tell me what's on your mind.\n"
     }
 ]

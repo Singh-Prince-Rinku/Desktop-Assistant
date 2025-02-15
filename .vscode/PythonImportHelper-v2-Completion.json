@@ -1,0 +1,2294 @@
+[
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "sysconfig",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sysconfig",
+        "description": "sysconfig",
+        "detail": "sysconfig",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "winreg",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "winreg",
+        "description": "winreg",
+        "detail": "winreg",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "close",
+        "importPath": "AppOpener",
+        "description": "AppOpener",
+        "isExtraImport": true,
+        "detail": "AppOpener",
+        "documentation": {}
+    },
+    {
+        "label": "open",
+        "importPath": "AppOpener",
+        "description": "AppOpener",
+        "isExtraImport": true,
+        "detail": "AppOpener",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "open",
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "isExtraImport": true,
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "importPath": "pywhatkit",
+        "description": "pywhatkit",
+        "isExtraImport": true,
+        "detail": "pywhatkit",
+        "documentation": {}
+    },
+    {
+        "label": "playonyt",
+        "importPath": "pywhatkit",
+        "description": "pywhatkit",
+        "isExtraImport": true,
+        "detail": "pywhatkit",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv_values",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv_values",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "get_key",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv_values",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv_values",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv_values",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv_values",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv_values",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv_values",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv_values",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "print",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "print",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "Groq",
+        "importPath": "groq",
+        "description": "groq",
+        "isExtraImport": true,
+        "detail": "groq",
+        "documentation": {}
+    },
+    {
+        "label": "Groq",
+        "importPath": "groq",
+        "description": "groq",
+        "isExtraImport": true,
+        "detail": "groq",
+        "documentation": {}
+    },
+    {
+        "label": "Groq",
+        "importPath": "groq",
+        "description": "groq",
+        "isExtraImport": true,
+        "detail": "groq",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "keyboard",
+        "description": "keyboard",
+        "detail": "keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "importPath": "json",
+        "description": "json",
+        "isExtraImport": true,
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "dump",
+        "importPath": "json",
+        "description": "json",
+        "isExtraImport": true,
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "importPath": "json",
+        "description": "json",
+        "isExtraImport": true,
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "dump",
+        "importPath": "json",
+        "description": "json",
+        "isExtraImport": true,
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "UnidentifiedImageError",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "cohere",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cohere",
+        "description": "cohere",
+        "detail": "cohere",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "importPath": "googlesearch",
+        "description": "googlesearch",
+        "isExtraImport": true,
+        "detail": "googlesearch",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "ChromeDriverManager",
+        "importPath": "webdriver_manager.chrome",
+        "description": "webdriver_manager.chrome",
+        "isExtraImport": true,
+        "detail": "webdriver_manager.chrome",
+        "documentation": {}
+    },
+    {
+        "label": "mtranslate",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mtranslate",
+        "description": "mtranslate",
+        "detail": "mtranslate",
+        "documentation": {}
+    },
+    {
+        "label": "pygame",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame",
+        "description": "pygame",
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "edge_tts",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "edge_tts",
+        "description": "edge_tts",
+        "detail": "edge_tts",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTextEdit",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QStackedWidget",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGridLayout",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFrame",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSizePolicy",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QIcon",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainter",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QMovie",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QColor",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QTextCharFormat",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QFont",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPixmap",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QTextBlockFormat",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QSize",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QTimer",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "GraphicalUserInterface",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "SetAssistantStatus",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "ShowTextToScreen",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "TempDirectoryPath",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "SetMicrophonesStatus",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerModifier",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "QueryModifier",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "GetAssistantStatus",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "GetMicrophonesStatus",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "GraphicalUserInterface",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "SetAssistantStatus",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "ShowTextToScreen",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "TempDirectoryPath",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "SetMicrophonesStatus",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerModifier",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "QueryModifier",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "GetAssistantStatus",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "GetMicrophonesStatus",
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "isExtraImport": true,
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "first_layer_dmm",
+        "importPath": "Backend.Model",
+        "description": "Backend.Model",
+        "isExtraImport": true,
+        "detail": "Backend.Model",
+        "documentation": {}
+    },
+    {
+        "label": "first_layer_dmm",
+        "importPath": "Backend.Model",
+        "description": "Backend.Model",
+        "isExtraImport": true,
+        "detail": "Backend.Model",
+        "documentation": {}
+    },
+    {
+        "label": "RealtimeSearchEngine",
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "isExtraImport": true,
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "RealtimeSearchEngine",
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "isExtraImport": true,
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "Automation",
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "isExtraImport": true,
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "Automation",
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "isExtraImport": true,
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "SpeechRecognition",
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "isExtraImport": true,
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "SpeechRecognition",
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "isExtraImport": true,
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "ChatBot",
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "isExtraImport": true,
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "ChatBot",
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "isExtraImport": true,
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "TextToSpeech",
+        "importPath": "Backend.TextToSpeech",
+        "description": "Backend.TextToSpeech",
+        "isExtraImport": true,
+        "detail": "Backend.TextToSpeech",
+        "documentation": {}
+    },
+    {
+        "label": "TextToSpeech",
+        "importPath": "Backend.TextToSpeech",
+        "description": "Backend.TextToSpeech",
+        "isExtraImport": true,
+        "detail": "Backend.TextToSpeech",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except OSError:\n                pass\n        tee_f.write(what)",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api\n    import win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror == 5:  # access denied - user not admin.\n                raise",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.machinery\n    import importlib.util\n    suffix = \"_d\" if \"_d.pyd\" in importlib.machinery.EXTENSION_SUFFIXES else \"\"\n    filename = \"%s%d%d%s.dll\" % (\n        modname,\n        sys.version_info.major,\n        sys.version_info.minor,\n        suffix,",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n            if verbose:\n                print(f\"-> {root_key_name}\\\\{key_name}[{value_name}]={value!r}\")\n        finally:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "UnsetPyKeyVal",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def UnsetPyKeyVal(key_name, value_name, delete_key=False):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.OpenKey(root_key, key_name, 0, winreg.KEY_SET_VALUE)\n        try:\n            winreg.DeleteValue(my_key, value_name)\n            if verbose:\n                print(f\"-> DELETE {root_key_name}\\\\{key_name}[{value_name}]\")\n        finally:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register=True):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags[\"quiet\"] = 1\n    for module, klass_name in com_modules:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterHelpFile",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterHelpFile(register=True, lib_dir=None):\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    if register:\n        # Register the .chm help file.\n        chm_file = os.path.join(lib_dir, \"PyWin32.chm\")\n        if os.path.isfile(chm_file):\n            # This isn't recursive, so if 'Help' doesn't exist, we croak\n            SetPyKeyVal(\"Help\", None, None)\n            SetPyKeyVal(\"Help\\\\Pythonwin Reference\", None, chm_file)",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True, lib_dir=None):\n    \"\"\"Add (or remove) Pythonwin to context menu for python scripts.\n    ??? Should probably also add Edit command for pys files also.\n    Also need to remove these keys on uninstall, but there's no function\n        like file_created to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    classes_root = get_root_hkey()",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey() == winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api  # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEM)",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api\n    import win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(f\"Failed to unregister COM objects: {why}\")\n    try:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location):\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError(f'Path \"{location}\" does not exist!')\n    return location\ndef main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python pywin32_postinstall.py -install",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python pywin32_postinstall.py -install\n    If you installed pywin32 via a .exe installer, this should be run\n    automatically after installation, but if it fails you can run it again.\n    If you installed pywin32 via PIP, you almost certainly need to run this to\n    setup the environment correctly.",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(os.path.join(tempfile.gettempdir(), \"pywin32_postinstall.log\"), \"w\")\nclass Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except OSError:\n                pass",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to PythonXX\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to PythonXX\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created  # type: ignore[used-before-def]\n    # 3.10 stopped supporting bdist_wininst, but we can still build them with 3.9.",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to PythonXX\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created  # type: ignore[used-before-def]\n    # 3.10 stopped supporting bdist_wininst, but we can still build them with 3.9.\n    # This can be kept until Python 3.9 or exe installers support is dropped.",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()\n    result = subprocess.run(cmd, check=False, cwd=dirname)\n    print(f\"*** Test script '{script}' exited with {result.returncode}\")\n    sys.stdout.flush()\n    if result.returncode:",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, extras):\n    for maybe in possible_locations:\n        if os.path.isfile(maybe):\n            run_test(maybe, extras)\n            break\n    else:\n        raise RuntimeError(\n            \"Failed to locate a test script in one of %s\" % possible_locations\n        )\ndef main():",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "def main():\n    import argparse\n    code_directories = [this_dir] + site_packages\n    parser = argparse.ArgumentParser(\n        description=\"A script to trigger tests in all subprojects of PyWin32.\"\n    )\n    parser.add_argument(\n        \"-no-user-interaction\",\n        default=False,\n        action=\"store_true\",",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "this_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "this_dir = os.path.dirname(__file__)\nsite_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "failures",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "failures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleSearch",
+        "kind": 2,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "def GoogleSearch(topic):\n    search(topic)\n    return True\ndef Content(topic):\n    def OpenNotepad(file):\n        default_text_editor = 'notepad.exe'\n        subprocess.Popen([default_text_editor, file])\n    def ContentWriteAI(prompt):\n        message.append({\"role\": \"user\", \"content\": f\"{prompt}\"})\n        completion = client.chat.completions.create(",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "Content",
+        "kind": 2,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "def Content(topic):\n    def OpenNotepad(file):\n        default_text_editor = 'notepad.exe'\n        subprocess.Popen([default_text_editor, file])\n    def ContentWriteAI(prompt):\n        message.append({\"role\": \"user\", \"content\": f\"{prompt}\"})\n        completion = client.chat.completions.create(\n            model=\"llama-3.3-70b-versatile\",\n            messages=SystemChatBot + message,\n            max_tokens=2048,",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "YoutubeSearch",
+        "kind": 2,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "def YoutubeSearch(topic):\n    url_for_search = f\"https://www.youtube.com/results?search_query={topic}\"\n    webbrowser.open(url_for_search)\n    return True\ndef PlayYoutube(query):\n    playonyt(query)\n    return True\ndef OpenApp(app, sess=requests.Session()):\n    try:\n        appopen(app, match_closest=True, output=True, throw_error=True)",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "PlayYoutube",
+        "kind": 2,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "def PlayYoutube(query):\n    playonyt(query)\n    return True\ndef OpenApp(app, sess=requests.Session()):\n    try:\n        appopen(app, match_closest=True, output=True, throw_error=True)\n        return True\n    except:\n        def extract_link(html):\n            if html is None:",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "OpenApp",
+        "kind": 2,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "def OpenApp(app, sess=requests.Session()):\n    try:\n        appopen(app, match_closest=True, output=True, throw_error=True)\n        return True\n    except:\n        def extract_link(html):\n            if html is None:\n                return []\n            soup = BeautifulSoup(html, 'html.parser')\n            links = soup.find_all('a', {'jsname': 'UWckNb'})",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "CloseApp",
+        "kind": 2,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "def CloseApp(app):\n    try:\n        close(app, match_closest=True, output=True, throw_error=True)\n        return True\n    except Exception as e:\n        print(f\"Error closing app: {e}\")\n        return False\ndef System(command):\n    def mute():\n        keyboard.press_and_release(\"volume mute\")",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "System",
+        "kind": 2,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "def System(command):\n    def mute():\n        keyboard.press_and_release(\"volume mute\")\n    def unmute():\n        keyboard.press_and_release(\"volume unmute\")\n    def volume_up():\n        keyboard.press_and_release(\"volume up\")\n    def volume_down():\n        keyboard.press_and_release(\"volume down\")\n    if command == \"mute\":",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "env_vars",
+        "kind": 5,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\n# Fetch the API key\nGroqAPIkey = env_vars.get(\"GROQ_API_KEY\")\n# Set the environment variable for the Groq client\nif GroqAPIkey:\n    os.environ[\"GROQ_API_KEY\"] = GroqAPIkey  # Explicitly set as global variable\nelse:\n    raise ValueError(\"GROQ_API_KEY is not set in the .env file. Please provide a valid API key.\")\n# Initialize Groq client\nclient = Groq(api_key=os.environ[\"GROQ_API_KEY\"])",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "GroqAPIkey",
+        "kind": 5,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "GroqAPIkey = env_vars.get(\"GROQ_API_KEY\")\n# Set the environment variable for the Groq client\nif GroqAPIkey:\n    os.environ[\"GROQ_API_KEY\"] = GroqAPIkey  # Explicitly set as global variable\nelse:\n    raise ValueError(\"GROQ_API_KEY is not set in the .env file. Please provide a valid API key.\")\n# Initialize Groq client\nclient = Groq(api_key=os.environ[\"GROQ_API_KEY\"])\n# CSS classes for parsing HTML (update as needed)\nclasses = [",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "client = Groq(api_key=os.environ[\"GROQ_API_KEY\"])\n# CSS classes for parsing HTML (update as needed)\nclasses = [\n    \"zCubwf\", \"hgKElc\", \"LTKOO sY7ric\", \"ZOLcW\",\n    \"“gsrt vk_bk FzvWSb YwPhnf\", \"pclqee\", \"tw-Data-text tw-text-small tw-ta\",\n    \"IZ6rdc\", \"O5uR6d LTKOO\", \"“vlzY6d\", \"“webanswers-webanswers_table_webanswers-table\",\n    \"“dDoNo ikb4Bb gsrt\", \"sXLa0e\", \"LwkfKe\", \"VQF4g\", \"qv3Wpe\", \"kno-rdesc\", \"SPZz6b\"\n]\n# User agent for web requests\nuseragent = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36\"",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "classes",
+        "kind": 5,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "classes = [\n    \"zCubwf\", \"hgKElc\", \"LTKOO sY7ric\", \"ZOLcW\",\n    \"“gsrt vk_bk FzvWSb YwPhnf\", \"pclqee\", \"tw-Data-text tw-text-small tw-ta\",\n    \"IZ6rdc\", \"O5uR6d LTKOO\", \"“vlzY6d\", \"“webanswers-webanswers_table_webanswers-table\",\n    \"“dDoNo ikb4Bb gsrt\", \"sXLa0e\", \"LwkfKe\", \"VQF4g\", \"qv3Wpe\", \"kno-rdesc\", \"SPZz6b\"\n]\n# User agent for web requests\nuseragent = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36\"\n# Response template\nprofessional_responses = [",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "useragent",
+        "kind": 5,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "useragent = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36\"\n# Response template\nprofessional_responses = [\n    \"Your satisfaction is my top priority; feel free to reach out if there's anything else I can help you with.\",\n    \"I'm at your service for any additional questions or support you may need—don't hesitate to ask.\"\n]\nmessage = []\n# System prompt for AI content\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": f\"Hello, I am {os.environ.get('Username', 'Assistant')}, You are a content writer. You have to write like a letter.\"}",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "professional_responses",
+        "kind": 5,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "professional_responses = [\n    \"Your satisfaction is my top priority; feel free to reach out if there's anything else I can help you with.\",\n    \"I'm at your service for any additional questions or support you may need—don't hesitate to ask.\"\n]\nmessage = []\n# System prompt for AI content\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": f\"Hello, I am {os.environ.get('Username', 'Assistant')}, You are a content writer. You have to write like a letter.\"}\n]\n# Define functions",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "message = []\n# System prompt for AI content\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": f\"Hello, I am {os.environ.get('Username', 'Assistant')}, You are a content writer. You have to write like a letter.\"}\n]\n# Define functions\ndef GoogleSearch(topic):\n    search(topic)\n    return True\ndef Content(topic):",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "SystemChatBot",
+        "kind": 5,
+        "importPath": "Backend.Automation",
+        "description": "Backend.Automation",
+        "peekOfCode": "SystemChatBot = [\n    {\"role\": \"system\", \"content\": f\"Hello, I am {os.environ.get('Username', 'Assistant')}, You are a content writer. You have to write like a letter.\"}\n]\n# Define functions\ndef GoogleSearch(topic):\n    search(topic)\n    return True\ndef Content(topic):\n    def OpenNotepad(file):\n        default_text_editor = 'notepad.exe'",
+        "detail": "Backend.Automation",
+        "documentation": {}
+    },
+    {
+        "label": "RealtimeInformation",
+        "kind": 2,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "def RealtimeInformation():\n    current_data_time = datetime.datetime.now()\n    day = current_data_time.strftime(\"%A\")\n    date = current_data_time.strftime(\"%d\")\n    month = current_data_time.strftime(\"%B\")\n    year = current_data_time.strftime(\"%Y\")\n    hour = current_data_time.strftime(\"%H\")\n    minute = current_data_time.strftime(\"%M\")\n    second = current_data_time.strftime(\"%S\")\n    data = f\"please use this real-time information if needed,\\n\"",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerModifier",
+        "kind": 2,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "def AnswerModifier(Answer):\n    lines = Answer.split('\\n')\n    non_empty_lines = [line.strip() for line in lines if line.strip()]\n    return '\\n'.join(non_empty_lines)\n# Main chatbot function\ndef ChatBot(Query):\n    \"\"\"This function sends the user's query to the chatbot and returns the AI's response.\"\"\"\n    try:\n        # Load chat log\n        with open(r\"Data\\ChatLog.json\", \"r\") as f:",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "ChatBot",
+        "kind": 2,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "def ChatBot(Query):\n    \"\"\"This function sends the user's query to the chatbot and returns the AI's response.\"\"\"\n    try:\n        # Load chat log\n        with open(r\"Data\\ChatLog.json\", \"r\") as f:\n            message = load(f)\n        # Add the user's query\n        message.append({\n            \"role\": \"user\",\n            \"content\": Query",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "env_vars",
+        "kind": 5,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\nUsername = env_vars.get(\"Username\")\nAssistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\nmessage = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "Username",
+        "kind": 5,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "Username = env_vars.get(\"Username\")\nAssistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\nmessage = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "Assistantname",
+        "kind": 5,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "Assistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\nmessage = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***\n*** Do not provide notes in the output, just answer the question and never mention your training data. ***",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "GroqAPIKey",
+        "kind": 5,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "GroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\nmessage = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***\n*** Do not provide notes in the output, just answer the question and never mention your training data. ***\n\"\"\"",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "client = Groq(api_key=GroqAPIKey)\nmessage = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***\n*** Do not provide notes in the output, just answer the question and never mention your training data. ***\n\"\"\"\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": System}",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "message = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***\n*** Do not provide notes in the output, just answer the question and never mention your training data. ***\n\"\"\"\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": System}\n]",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "System",
+        "kind": 5,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "System = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***\n*** Do not provide notes in the output, just answer the question and never mention your training data. ***\n\"\"\"\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": System}\n]\n# Load existing chat log or create a new one\ntry:",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "SystemChatBot",
+        "kind": 5,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "SystemChatBot = [\n    {\"role\": \"system\", \"content\": System}\n]\n# Load existing chat log or create a new one\ntry:\n    with open(r\"Data\\ChatLog.json\", \"r\") as f:\n        message = load(f)\nexcept FileNotFoundError:\n    with open(r\"Data\\ChatLog.json\", \"w\") as f:\n        dump([], f)",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "open_images",
+        "kind": 2,
+        "importPath": "Backend.ImageGeneration",
+        "description": "Backend.ImageGeneration",
+        "peekOfCode": "def open_images(prompt):\n    \"\"\"Opens images generated based on the given prompt.\"\"\"\n    sanitized_prompt = prompt.replace(\" \", \"_\")\n    file_names = [f\"{sanitized_prompt}{i}.jpg\" for i in range(1, 8)]\n    for file_name in file_names:\n        image_path = os.path.join(DATA_FOLDER, file_name)\n        try:\n            img = Image.open(image_path)\n            print(f\"Opening image: {image_path}\")\n            img.show()",
+        "detail": "Backend.ImageGeneration",
+        "documentation": {}
+    },
+    {
+        "label": "GenerateImages",
+        "kind": 2,
+        "importPath": "Backend.ImageGeneration",
+        "description": "Backend.ImageGeneration",
+        "peekOfCode": "def GenerateImages(prompt: str):\n    \"\"\"Wrapper function to generate images and open them.\"\"\"\n    asyncio.run(generate_image(prompt))\n    open_images(prompt)\n# Main loop to monitor ImageGeneration.data\nwhile True:\n    try:\n        with open(FRONTEND_FILE_PATH, \"r\") as f:\n            data = f.read()\n        prompt, status = data.split(\",\")",
+        "detail": "Backend.ImageGeneration",
+        "documentation": {}
+    },
+    {
+        "label": "DATA_FOLDER",
+        "kind": 5,
+        "importPath": "Backend.ImageGeneration",
+        "description": "Backend.ImageGeneration",
+        "peekOfCode": "DATA_FOLDER = \"Data\"\nFRONTEND_FILE_PATH = os.path.join(r'C:\\Users\\princ\\OneDrive\\Desktop Assistant\\Frontent\\Files\\ImageGeneration.data')\nHUGGINGFACE_API_URL = \"https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0\"\nHUGGINGFACE_API_KEY = get_key(\".env\", \"HuggingFaceAPIKey\")\nHEADERS = {\"Authorization\": f\"Bearer {HUGGINGFACE_API_KEY}\"}\n# Ensure the data folder exists\nos.makedirs(DATA_FOLDER, exist_ok=True)\ndef open_images(prompt):\n    \"\"\"Opens images generated based on the given prompt.\"\"\"\n    sanitized_prompt = prompt.replace(\" \", \"_\")",
+        "detail": "Backend.ImageGeneration",
+        "documentation": {}
+    },
+    {
+        "label": "FRONTEND_FILE_PATH",
+        "kind": 5,
+        "importPath": "Backend.ImageGeneration",
+        "description": "Backend.ImageGeneration",
+        "peekOfCode": "FRONTEND_FILE_PATH = os.path.join(r'C:\\Users\\princ\\OneDrive\\Desktop Assistant\\Frontent\\Files\\ImageGeneration.data')\nHUGGINGFACE_API_URL = \"https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0\"\nHUGGINGFACE_API_KEY = get_key(\".env\", \"HuggingFaceAPIKey\")\nHEADERS = {\"Authorization\": f\"Bearer {HUGGINGFACE_API_KEY}\"}\n# Ensure the data folder exists\nos.makedirs(DATA_FOLDER, exist_ok=True)\ndef open_images(prompt):\n    \"\"\"Opens images generated based on the given prompt.\"\"\"\n    sanitized_prompt = prompt.replace(\" \", \"_\")\n    file_names = [f\"{sanitized_prompt}{i}.jpg\" for i in range(1, 8)]",
+        "detail": "Backend.ImageGeneration",
+        "documentation": {}
+    },
+    {
+        "label": "HUGGINGFACE_API_URL",
+        "kind": 5,
+        "importPath": "Backend.ImageGeneration",
+        "description": "Backend.ImageGeneration",
+        "peekOfCode": "HUGGINGFACE_API_URL = \"https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0\"\nHUGGINGFACE_API_KEY = get_key(\".env\", \"HuggingFaceAPIKey\")\nHEADERS = {\"Authorization\": f\"Bearer {HUGGINGFACE_API_KEY}\"}\n# Ensure the data folder exists\nos.makedirs(DATA_FOLDER, exist_ok=True)\ndef open_images(prompt):\n    \"\"\"Opens images generated based on the given prompt.\"\"\"\n    sanitized_prompt = prompt.replace(\" \", \"_\")\n    file_names = [f\"{sanitized_prompt}{i}.jpg\" for i in range(1, 8)]\n    for file_name in file_names:",
+        "detail": "Backend.ImageGeneration",
+        "documentation": {}
+    },
+    {
+        "label": "HUGGINGFACE_API_KEY",
+        "kind": 5,
+        "importPath": "Backend.ImageGeneration",
+        "description": "Backend.ImageGeneration",
+        "peekOfCode": "HUGGINGFACE_API_KEY = get_key(\".env\", \"HuggingFaceAPIKey\")\nHEADERS = {\"Authorization\": f\"Bearer {HUGGINGFACE_API_KEY}\"}\n# Ensure the data folder exists\nos.makedirs(DATA_FOLDER, exist_ok=True)\ndef open_images(prompt):\n    \"\"\"Opens images generated based on the given prompt.\"\"\"\n    sanitized_prompt = prompt.replace(\" \", \"_\")\n    file_names = [f\"{sanitized_prompt}{i}.jpg\" for i in range(1, 8)]\n    for file_name in file_names:\n        image_path = os.path.join(DATA_FOLDER, file_name)",
+        "detail": "Backend.ImageGeneration",
+        "documentation": {}
+    },
+    {
+        "label": "HEADERS",
+        "kind": 5,
+        "importPath": "Backend.ImageGeneration",
+        "description": "Backend.ImageGeneration",
+        "peekOfCode": "HEADERS = {\"Authorization\": f\"Bearer {HUGGINGFACE_API_KEY}\"}\n# Ensure the data folder exists\nos.makedirs(DATA_FOLDER, exist_ok=True)\ndef open_images(prompt):\n    \"\"\"Opens images generated based on the given prompt.\"\"\"\n    sanitized_prompt = prompt.replace(\" \", \"_\")\n    file_names = [f\"{sanitized_prompt}{i}.jpg\" for i in range(1, 8)]\n    for file_name in file_names:\n        image_path = os.path.join(DATA_FOLDER, file_name)\n        try:",
+        "detail": "Backend.ImageGeneration",
+        "documentation": {}
+    },
+    {
+        "label": "first_layer_dmm",
+        "kind": 2,
+        "importPath": "Backend.Model",
+        "description": "Backend.Model",
+        "peekOfCode": "def first_layer_dmm(prompt: str):\n    messages = [{\"role\": \"user\", \"content\": prompt}]\n    try:\n        # Call Cohere chat API\n        response = co.chat(\n            model=\"command-r-plus\",\n            message=prompt,\n            temperature=0.7,\n            chat_history=chat_history,\n            preamble=preamble",
+        "detail": "Backend.Model",
+        "documentation": {}
+    },
+    {
+        "label": "env_vars",
+        "kind": 5,
+        "importPath": "Backend.Model",
+        "description": "Backend.Model",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\ncohere_api_key = env_vars.get(\"CohereAPIKey\")\nif not cohere_api_key:\n    raise ValueError(\"Cohere API key not found in .env file.\")\n# Initialize Cohere client\nco = cohere.Client(api_key=cohere_api_key)\n# Define the decision-making model preamble\npreamble = \"\"\"\nYou are a very accurate Decision-Making Model, which decides what kind of a query is given to you.\nYou will decide whether a query is a 'general' query, a 'realtime' query, or is asking to perform any task or automation like 'open facebook, instagram', 'can you write a application and open it in notepad'",
+        "detail": "Backend.Model",
+        "documentation": {}
+    },
+    {
+        "label": "cohere_api_key",
+        "kind": 5,
+        "importPath": "Backend.Model",
+        "description": "Backend.Model",
+        "peekOfCode": "cohere_api_key = env_vars.get(\"CohereAPIKey\")\nif not cohere_api_key:\n    raise ValueError(\"Cohere API key not found in .env file.\")\n# Initialize Cohere client\nco = cohere.Client(api_key=cohere_api_key)\n# Define the decision-making model preamble\npreamble = \"\"\"\nYou are a very accurate Decision-Making Model, which decides what kind of a query is given to you.\nYou will decide whether a query is a 'general' query, a 'realtime' query, or is asking to perform any task or automation like 'open facebook, instagram', 'can you write a application and open it in notepad'\n*** Do not answer any query, just decide what kind of query is given to you. ***",
+        "detail": "Backend.Model",
+        "documentation": {}
+    },
+    {
+        "label": "co",
+        "kind": 5,
+        "importPath": "Backend.Model",
+        "description": "Backend.Model",
+        "peekOfCode": "co = cohere.Client(api_key=cohere_api_key)\n# Define the decision-making model preamble\npreamble = \"\"\"\nYou are a very accurate Decision-Making Model, which decides what kind of a query is given to you.\nYou will decide whether a query is a 'general' query, a 'realtime' query, or is asking to perform any task or automation like 'open facebook, instagram', 'can you write a application and open it in notepad'\n*** Do not answer any query, just decide what kind of query is given to you. ***\n-> Respond with 'general ( query )' if a query can be answered by a llm model (conversational ai chatbot) and doesn't require any up to date information like if the query is 'who was akbar?' respond with 'general who was akbar?', if the query is 'how can i study more effectively?' respond with 'general how can i study more effectively?', etc.\n-> Respond with 'realtime ( query )' if a query can not be answered by a llm model (because they don't have realtime data) and requires up to date information.\n-> Respond with 'open (application name or website name)' if a query is asking to open any application like 'open facebook', 'open telegram', etc.\n-> Respond with 'close (application name)' if a query is asking to close any application like 'close notepad', 'close facebook', etc.",
+        "detail": "Backend.Model",
+        "documentation": {}
+    },
+    {
+        "label": "preamble",
+        "kind": 5,
+        "importPath": "Backend.Model",
+        "description": "Backend.Model",
+        "peekOfCode": "preamble = \"\"\"\nYou are a very accurate Decision-Making Model, which decides what kind of a query is given to you.\nYou will decide whether a query is a 'general' query, a 'realtime' query, or is asking to perform any task or automation like 'open facebook, instagram', 'can you write a application and open it in notepad'\n*** Do not answer any query, just decide what kind of query is given to you. ***\n-> Respond with 'general ( query )' if a query can be answered by a llm model (conversational ai chatbot) and doesn't require any up to date information like if the query is 'who was akbar?' respond with 'general who was akbar?', if the query is 'how can i study more effectively?' respond with 'general how can i study more effectively?', etc.\n-> Respond with 'realtime ( query )' if a query can not be answered by a llm model (because they don't have realtime data) and requires up to date information.\n-> Respond with 'open (application name or website name)' if a query is asking to open any application like 'open facebook', 'open telegram', etc.\n-> Respond with 'close (application name)' if a query is asking to close any application like 'close notepad', 'close facebook', etc.\n-> Respond with 'play (song name)' if a query is asking to play any song like 'play afsanay by ys', etc.\n-> Respond with 'generate image (image prompt)' if a query is requesting to generate a image with given prompt like 'generate image of a lion', etc.",
+        "detail": "Backend.Model",
+        "documentation": {}
+    },
+    {
+        "label": "funcs",
+        "kind": 5,
+        "importPath": "Backend.Model",
+        "description": "Backend.Model",
+        "peekOfCode": "funcs = [\n    \"exit\", \"general\", \"realtime\", \"open\", \"close\", \"play\",\n    \"generate image\", \"system\", \"content\", \"google search\",\n    \"youtube search\", \"remainder\"\n]\n# Chat history\nchat_history = [\n    {\"role\": \"user\", \"message\": \"how are you\"},\n    {\"role\": \"chatbot\", \"message\": \"general how are you\"},\n    {\"role\": \"user\", \"message\": \"do you like pizza?\"},",
+        "detail": "Backend.Model",
+        "documentation": {}
+    },
+    {
+        "label": "chat_history",
+        "kind": 5,
+        "importPath": "Backend.Model",
+        "description": "Backend.Model",
+        "peekOfCode": "chat_history = [\n    {\"role\": \"user\", \"message\": \"how are you\"},\n    {\"role\": \"chatbot\", \"message\": \"general how are you\"},\n    {\"role\": \"user\", \"message\": \"do you like pizza?\"},\n    {\"role\": \"chatbot\", \"message\": \"general do you like pizza\"},\n    {\"role\": \"user\", \"message\": \"open chrome and tell me about tony stark\"},\n    {\"role\": \"chatbot\", \"message\": \"open chrome, general tell me about tony stark\"},\n]\n# Function to process user input and classify the query\ndef first_layer_dmm(prompt: str):",
+        "detail": "Backend.Model",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleSearch",
+        "kind": 2,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "def GoogleSearch(query):\n    # Perform the Google search and get a list of URLs\n    results = list(search(query, num_results=5))\n    Answer = f\"The search results for '{query}' are:\\n[Start]\\n\"\n    for i in results:\n        Answer += f\"URL: {i}\\n\\n\"  # Now only appending the URL instead of non-existent 'title' and 'description'\n    Answer += \"[end]\"\n    return Answer\n# Function to clean up the answer format\ndef AnswerModifier(Answer):",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerModifier",
+        "kind": 2,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "def AnswerModifier(Answer):\n    lines = Answer.split('\\n')\n    non_empty_lines = [line for line in lines if line.strip()]\n    modified_answer = '\\n'.join(non_empty_lines)\n    return modified_answer\n# Initialize System and Chatbot messages\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": System},\n    {\"role\": \"user\", \"content\": \"Hi\"},\n    {\"role\": \"assistant\", \"content\": \"Hello, How can I help you?\"}",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "Information",
+        "kind": 2,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "def Information():\n    data = \"\"\n    current_date_time = datetime.datetime.now()\n    day = current_date_time.strftime(\"%A\")\n    date = current_date_time.strftime(\"%d\")\n    month = current_date_time.strftime(\"%B\")\n    year = current_date_time.strftime(\"%Y\")\n    hour = current_date_time.strftime(\"%H\")\n    minute = current_date_time.strftime(\"%M\")\n    second = current_date_time.strftime(\"%S\")",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "RealtimeSearchEngine",
+        "kind": 2,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "def RealtimeSearchEngine(prompt):\n    global SystemChatBot, message\n    # Load the previous chat log\n    with open(r\"Data\\ChatLog.json\", \"r\") as f:\n        message = load(f)\n    # Add the user's prompt to the message history\n    message.append({\"role\": \"user\", \"content\": f\"{prompt}\"})\n    # Append Google search results to the system message\n    SystemChatBot.append({\"role\": \"system\", \"content\": GoogleSearch(prompt)})\n    # Ensure that all messages are in the correct format",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "env_vars",
+        "kind": 5,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\nUsername = env_vars[\"Username\"]\nAssistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize Groq client\nclient = Groq(api_key=GroqAPIKey)\n# Define system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which has real-time up-to-date information from the internet.\n*** Provide Answers In a Professional Way, make sure to add full stops, commas, question marks, and use proper grammar.***\n*** Just answer the question from the provided data in a professional way. ***\"\"\"",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "Username",
+        "kind": 5,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "Username = env_vars[\"Username\"]\nAssistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize Groq client\nclient = Groq(api_key=GroqAPIKey)\n# Define system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which has real-time up-to-date information from the internet.\n*** Provide Answers In a Professional Way, make sure to add full stops, commas, question marks, and use proper grammar.***\n*** Just answer the question from the provided data in a professional way. ***\"\"\"\n# Initialize chat log",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "Assistantname",
+        "kind": 5,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "Assistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize Groq client\nclient = Groq(api_key=GroqAPIKey)\n# Define system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which has real-time up-to-date information from the internet.\n*** Provide Answers In a Professional Way, make sure to add full stops, commas, question marks, and use proper grammar.***\n*** Just answer the question from the provided data in a professional way. ***\"\"\"\n# Initialize chat log\ntry:",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "GroqAPIKey",
+        "kind": 5,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "GroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize Groq client\nclient = Groq(api_key=GroqAPIKey)\n# Define system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which has real-time up-to-date information from the internet.\n*** Provide Answers In a Professional Way, make sure to add full stops, commas, question marks, and use proper grammar.***\n*** Just answer the question from the provided data in a professional way. ***\"\"\"\n# Initialize chat log\ntry:\n    with open(r\"Data\\ChatLog.json\", \"r\") as f:",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "client = Groq(api_key=GroqAPIKey)\n# Define system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which has real-time up-to-date information from the internet.\n*** Provide Answers In a Professional Way, make sure to add full stops, commas, question marks, and use proper grammar.***\n*** Just answer the question from the provided data in a professional way. ***\"\"\"\n# Initialize chat log\ntry:\n    with open(r\"Data\\ChatLog.json\", \"r\") as f:\n        message = load(f)\nexcept:",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "System",
+        "kind": 5,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "System = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which has real-time up-to-date information from the internet.\n*** Provide Answers In a Professional Way, make sure to add full stops, commas, question marks, and use proper grammar.***\n*** Just answer the question from the provided data in a professional way. ***\"\"\"\n# Initialize chat log\ntry:\n    with open(r\"Data\\ChatLog.json\", \"r\") as f:\n        message = load(f)\nexcept:\n    with open(r\"Data\\ChatLog.json\", \"w\") as f:\n        dump([], f)",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "SystemChatBot",
+        "kind": 5,
+        "importPath": "Backend.RealtimeSearchEngine",
+        "description": "Backend.RealtimeSearchEngine",
+        "peekOfCode": "SystemChatBot = [\n    {\"role\": \"system\", \"content\": System},\n    {\"role\": \"user\", \"content\": \"Hi\"},\n    {\"role\": \"assistant\", \"content\": \"Hello, How can I help you?\"}\n]\n# Function to return real-time information\ndef Information():\n    data = \"\"\n    current_date_time = datetime.datetime.now()\n    day = current_date_time.strftime(\"%A\")",
+        "detail": "Backend.RealtimeSearchEngine",
+        "documentation": {}
+    },
+    {
+        "label": "SetAssistantStatus",
+        "kind": 2,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "def SetAssistantStatus(Status):\n    with open(rf'{TempDirpath}/Status.data', \"w\", encoding=\"utf-8\") as file:\n        file.write(Status)\ndef QueryModifier(Query):\n    new_query = Query.lower().strip()\n    query_words = new_query.split()\n    question_words = [\"how\", \"what\", \"who\", \"where\", \"when\", \"why\", \"which\", \"whose\", \"whom\", \"can you\", \"what's\", \"where's\", \"how's\"]\n    if any(word in question_words for word in query_words):\n        if query_words[-1][-1] in ['.', '?', '!']:\n            new_query = new_query[:-1] + \"?\"",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "QueryModifier",
+        "kind": 2,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "def QueryModifier(Query):\n    new_query = Query.lower().strip()\n    query_words = new_query.split()\n    question_words = [\"how\", \"what\", \"who\", \"where\", \"when\", \"why\", \"which\", \"whose\", \"whom\", \"can you\", \"what's\", \"where's\", \"how's\"]\n    if any(word in question_words for word in query_words):\n        if query_words[-1][-1] in ['.', '?', '!']:\n            new_query = new_query[:-1] + \"?\"\n        else:\n            new_query += \"?\"\n    else:",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "UniversalTranslator",
+        "kind": 2,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "def UniversalTranslator(Text):\n    english_translation = mt.translate(Text, \"en\", \"auto\")\n    return english_translation.capitalize()\ndef SpeechRecognition():\n    driver.get(\"file:///\" + Link)\n    driver.find_element(by=By.ID, value=\"start\").click()\n    while True:\n        try:\n            Text = driver.find_element(by=By.ID, value=\"output\").text\n            if InputLanguage.lower() == \"en\" or \"en\" in InputLanguage.lower():",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "SpeechRecognition",
+        "kind": 2,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "def SpeechRecognition():\n    driver.get(\"file:///\" + Link)\n    driver.find_element(by=By.ID, value=\"start\").click()\n    while True:\n        try:\n            Text = driver.find_element(by=By.ID, value=\"output\").text\n            if InputLanguage.lower() == \"en\" or \"en\" in InputLanguage.lower():\n                return QueryModifier(Text)\n            else:\n                SetAssistantStatus(\"Translating...\")",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "env_vars",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\nInputLanguage = env_vars.get(\"InputLanguage\")\n# HTML Code for Speech Recognition\nHtmlCode = '''<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <title>Speech Recognition</title>\n</head>\n<body>\n    <button id=\"start\" onclick=\"startRecognition()\">Start Recognition</button>",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "InputLanguage",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "InputLanguage = env_vars.get(\"InputLanguage\")\n# HTML Code for Speech Recognition\nHtmlCode = '''<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <title>Speech Recognition</title>\n</head>\n<body>\n    <button id=\"start\" onclick=\"startRecognition()\">Start Recognition</button>\n    <button id=\"end\" onclick=\"stopRecognition()\">Stop Recognition</button>",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "HtmlCode",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "HtmlCode = '''<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <title>Speech Recognition</title>\n</head>\n<body>\n    <button id=\"start\" onclick=\"startRecognition()\">Start Recognition</button>\n    <button id=\"end\" onclick=\"stopRecognition()\">Stop Recognition</button>\n    <p id=\"output\"></p>\n    <script>",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "HtmlCode",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "HtmlCode = str(HtmlCode).replace(\"recognition.lang = '';\", f\"recognition.lang='{InputLanguage}';\")\n# Save the HTML file\nos.makedirs(\"Data\", exist_ok=True)\nwith open(r\"Data/Voice.html\", \"w\", encoding=\"utf-8\") as f:\n    f.write(HtmlCode)\ncurrent_dir = os.getcwd()\nLink = f\"{current_dir}/Data/Voice.html\"\n# Chrome options setup\nchrome_options = Options()\nuser_agent = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36\"",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "current_dir = os.getcwd()\nLink = f\"{current_dir}/Data/Voice.html\"\n# Chrome options setup\nchrome_options = Options()\nuser_agent = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36\"\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(\"--use-fake-ui-for-media-stream\")\nchrome_options.add_argument(\"--use-fake-device-for-media-stream\")\nchrome_options.add_argument(\"--headless=new\")\nchrome_options.add_argument(\"--disable-gpu\")",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "Link = f\"{current_dir}/Data/Voice.html\"\n# Chrome options setup\nchrome_options = Options()\nuser_agent = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36\"\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(\"--use-fake-ui-for-media-stream\")\nchrome_options.add_argument(\"--use-fake-device-for-media-stream\")\nchrome_options.add_argument(\"--headless=new\")\nchrome_options.add_argument(\"--disable-gpu\")\nchrome_options.add_argument(\"--disable-software-rasterizer\")",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "chrome_options",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "chrome_options = Options()\nuser_agent = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36\"\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(\"--use-fake-ui-for-media-stream\")\nchrome_options.add_argument(\"--use-fake-device-for-media-stream\")\nchrome_options.add_argument(\"--headless=new\")\nchrome_options.add_argument(\"--disable-gpu\")\nchrome_options.add_argument(\"--disable-software-rasterizer\")\nchrome_options.add_argument(\"--disable-dev-shm-usage\")\nchrome_options.add_argument(\"--no-sandbox\")",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "user_agent",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "user_agent = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.265 Safari/537.36\"\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(\"--use-fake-ui-for-media-stream\")\nchrome_options.add_argument(\"--use-fake-device-for-media-stream\")\nchrome_options.add_argument(\"--headless=new\")\nchrome_options.add_argument(\"--disable-gpu\")\nchrome_options.add_argument(\"--disable-software-rasterizer\")\nchrome_options.add_argument(\"--disable-dev-shm-usage\")\nchrome_options.add_argument(\"--no-sandbox\")\nchrome_options.add_argument(\"--enable-logging\")",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "service",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "service = Service(ChromeDriverManager().install())\ndriver = webdriver.Chrome(service=service, options=chrome_options)\n# Ensure temp directory exists\nTempDirpath = rf\"{current_dir}/Frontend/Files\"\nos.makedirs(TempDirpath, exist_ok=True)\ndef SetAssistantStatus(Status):\n    with open(rf'{TempDirpath}/Status.data', \"w\", encoding=\"utf-8\") as file:\n        file.write(Status)\ndef QueryModifier(Query):\n    new_query = Query.lower().strip()",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "driver = webdriver.Chrome(service=service, options=chrome_options)\n# Ensure temp directory exists\nTempDirpath = rf\"{current_dir}/Frontend/Files\"\nos.makedirs(TempDirpath, exist_ok=True)\ndef SetAssistantStatus(Status):\n    with open(rf'{TempDirpath}/Status.data', \"w\", encoding=\"utf-8\") as file:\n        file.write(Status)\ndef QueryModifier(Query):\n    new_query = Query.lower().strip()\n    query_words = new_query.split()",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "TempDirpath",
+        "kind": 5,
+        "importPath": "Backend.SpeechToText",
+        "description": "Backend.SpeechToText",
+        "peekOfCode": "TempDirpath = rf\"{current_dir}/Frontend/Files\"\nos.makedirs(TempDirpath, exist_ok=True)\ndef SetAssistantStatus(Status):\n    with open(rf'{TempDirpath}/Status.data', \"w\", encoding=\"utf-8\") as file:\n        file.write(Status)\ndef QueryModifier(Query):\n    new_query = Query.lower().strip()\n    query_words = new_query.split()\n    question_words = [\"how\", \"what\", \"who\", \"where\", \"when\", \"why\", \"which\", \"whose\", \"whom\", \"can you\", \"what's\", \"where's\", \"how's\"]\n    if any(word in question_words for word in query_words):",
+        "detail": "Backend.SpeechToText",
+        "documentation": {}
+    },
+    {
+        "label": "TTS",
+        "kind": 2,
+        "importPath": "Backend.TextToSpeech",
+        "description": "Backend.TextToSpeech",
+        "peekOfCode": "def TTS(text: str, func=lambda r=None: True) -> bool:\n    \"\"\"Text-to-speech function with pygame.\"\"\"\n    try:\n        asyncio.run(TextToAudioFile(text))\n        pygame.mixer.init()\n        pygame.mixer.music.load(file_path)\n        pygame.mixer.music.play()\n        while pygame.mixer.music.get_busy():\n            if not func():\n                break",
+        "detail": "Backend.TextToSpeech",
+        "documentation": {}
+    },
+    {
+        "label": "TextToSpeech",
+        "kind": 2,
+        "importPath": "Backend.TextToSpeech",
+        "description": "Backend.TextToSpeech",
+        "peekOfCode": "def TextToSpeech(text: str, func=lambda r=None: True):\n    \"\"\"Handle text and decide whether to split or play fully.\"\"\"\n    sentences = text.split(\".\")\n    responses = [\n        \"The rest of the result has been printed to the chat screen, kindly check it out sir.\",\n        \"The rest of the text is now on the chat screen, sir, please check it.\",\n        \"You can see the rest of the text on the chat screen, sir.\",\n        \"The remaining part of the text is now on the chat screen, sir.\",\n        \"Sir, you'll find more text on the chat screen for you to see.\",\n        \"The rest of the answer is now on the chat screen, sir.\",",
+        "detail": "Backend.TextToSpeech",
+        "documentation": {}
+    },
+    {
+        "label": "env_vars",
+        "kind": 5,
+        "importPath": "Backend.TextToSpeech",
+        "description": "Backend.TextToSpeech",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\nAssistantVoice = env_vars.get(\"AssistantVoice\")\nif not AssistantVoice:\n    raise ValueError(\"AssistantVoice not found in .env file!\")\n# Cross-platform file path\nfile_path = os.path.join(\"Data\", \"speech.mp3\")\nasync def TextToAudioFile(text: str) -> None:\n    \"\"\"Convert text to an audio file using edge_tts.\"\"\"\n    if os.path.exists(file_path):\n        os.remove(file_path)",
+        "detail": "Backend.TextToSpeech",
+        "documentation": {}
+    },
+    {
+        "label": "AssistantVoice",
+        "kind": 5,
+        "importPath": "Backend.TextToSpeech",
+        "description": "Backend.TextToSpeech",
+        "peekOfCode": "AssistantVoice = env_vars.get(\"AssistantVoice\")\nif not AssistantVoice:\n    raise ValueError(\"AssistantVoice not found in .env file!\")\n# Cross-platform file path\nfile_path = os.path.join(\"Data\", \"speech.mp3\")\nasync def TextToAudioFile(text: str) -> None:\n    \"\"\"Convert text to an audio file using edge_tts.\"\"\"\n    if os.path.exists(file_path):\n        os.remove(file_path)\n    communicate = edge_tts.Communicate(text, AssistantVoice, pitch='+5Hz', rate='+13%')",
+        "detail": "Backend.TextToSpeech",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Backend.TextToSpeech",
+        "description": "Backend.TextToSpeech",
+        "peekOfCode": "file_path = os.path.join(\"Data\", \"speech.mp3\")\nasync def TextToAudioFile(text: str) -> None:\n    \"\"\"Convert text to an audio file using edge_tts.\"\"\"\n    if os.path.exists(file_path):\n        os.remove(file_path)\n    communicate = edge_tts.Communicate(text, AssistantVoice, pitch='+5Hz', rate='+13%')\n    await communicate.save(file_path)\ndef TTS(text: str, func=lambda r=None: True) -> bool:\n    \"\"\"Text-to-speech function with pygame.\"\"\"\n    try:",
+        "detail": "Backend.TextToSpeech",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSection",
+        "kind": 6,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "class ChatSection(QWidget):\n        def __init__(self):\n            super(ChatSection, self).__init__()\n            layout = QVBoxLayout(self)\n            layout.setContentsMargins(-10, 40, 40, 100)\n            layout.setSpacing(-100)\n            self.chat_text_edit = QTextEdit()\n            self.chat_text_edit.setReadOnly(True)\n            self.chat_text_edit.setTextInteractionFlags(Qt.NoTextInteraction)\n            self.chat_text_edit.setFrameStyle(QFrame.NoFrame)",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "InitialScreen",
+        "kind": 6,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "class InitialScreen(QWidget):\n        def __init__(self, parent=None):\n            super().__init__(parent)\n            desktop = QApplication.desktop()\n            screen_width = desktop.screenGeometry().width()\n            screen_height = desktop.screenGeometry().height()\n            content_layout = QVBoxLayout()\n            content_layout.setContentsMargins(0, 0, 0, 0)\n            gif_label = QLabel()\n            movie = QMovie(GraphicDirectoryPath('Lyra.gif'))",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "MessageScreen",
+        "kind": 6,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "class MessageScreen(QWidget):\n        def __init__(self, parent=None):\n            super().__init__(parent)\n            desktop = QApplication.desktop()\n            screen_width = desktop.screenGeometry().width()\n            screen_height = desktop.screenGeometry().height()\n            layout = QVBoxLayout()\n            label = QLabel(\" \")\n            layout.addWidget(label)\n            chat_section = ChatSection()",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "CustomTopBar",
+        "kind": 6,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "class CustomTopBar(QWidget):\n        def __init__(self, parent, stacked_widget):\n            super().__init__(parent)\n            self.initUI()\n            self.current_screen = None\n            self.stacked_widget = stacked_widget\n        def initUI(self):\n            self.setFixedHeight(50)\n            layout = QHBoxLayout(self)\n            layout.setAlignment(Qt.AlignRight)",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "MainWindow",
+        "kind": 6,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "class MainWindow(QMainWindow):\n        def __init__(self):\n            super().__init__()\n            # self.setWindowFlag(Qt.FramelessWindowHint)\n            self.initUI()\n        def initUI(self):\n            desktop = QApplication.desktop()\n            screen_width = desktop.screenGeometry().width()\n            screen_hight = desktop.screenGeometry().height()\n            stacked_widget = QStackedWidget(self)",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerModifier",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def AnswerModifier(ANswer):\n    lines = ANswer.split('\\n')\n    non_empty_lines = [line for line in lines if line.strip()]\n    modified_answer = '\\n'.join(non_empty_lines)\n    return modified_answer\ndef QueryModifier(Query):\n    new_query = Query.lower().strip()\n    query_words = new_query.split()\n    question_words = [\"how\", \"what\", \"who\", \"where\", \"when\", \"why\", \"which\", \"whose\", \"whom\", \"can you\", \"what's\", \"where's\", \"how's\"]\n    if any(word + \" \" in new_query for word in question_words):",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "QueryModifier",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def QueryModifier(Query):\n    new_query = Query.lower().strip()\n    query_words = new_query.split()\n    question_words = [\"how\", \"what\", \"who\", \"where\", \"when\", \"why\", \"which\", \"whose\", \"whom\", \"can you\", \"what's\", \"where's\", \"how's\"]\n    if any(word + \" \" in new_query for word in question_words):\n        if query_words[-1][-1] in ['.', '?', '!']:\n            new_query = new_query[:-1] + \"?\"\n        else:\n            new_query += \"?\"\n    else:",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "SetMicrophonesStatus",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def SetMicrophonesStatus(Command):\n    with open(rf'{TempDirPath}\\Mic.data',\"w\", encoding='utf-8') as file:\n        file.write(Command)\ndef GetMicrophonesStatus(Command):\n    with open(rf'{TempDirPath}\\Mic.data',\"r\", encoding='utf-8') as file:\n        Status = file.read()\n    return Status\ndef SetAssistantStatus(Status):\n    with open(rf'{TempDirPath}\\Status.data',\"w\", encoding='utf-8') as file:\n        file.write(Status)",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "GetMicrophonesStatus",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def GetMicrophonesStatus(Command):\n    with open(rf'{TempDirPath}\\Mic.data',\"r\", encoding='utf-8') as file:\n        Status = file.read()\n    return Status\ndef SetAssistantStatus(Status):\n    with open(rf'{TempDirPath}\\Status.data',\"w\", encoding='utf-8') as file:\n        file.write(Status)\ndef GetAssistantStatus(Status):\n    with open(rf'{TempDirPath}\\Status.data',\"r\", encoding='utf-8') as file:\n        Status = file.read()",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "SetAssistantStatus",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def SetAssistantStatus(Status):\n    with open(rf'{TempDirPath}\\Status.data',\"w\", encoding='utf-8') as file:\n        file.write(Status)\ndef GetAssistantStatus(Status):\n    with open(rf'{TempDirPath}\\Status.data',\"r\", encoding='utf-8') as file:\n        Status = file.read()\n    return Status\ndef MicButtonInitialed():\n    SetMicrophonesStatus(\"False\")\ndef MicButtonClosed():",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "GetAssistantStatus",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def GetAssistantStatus(Status):\n    with open(rf'{TempDirPath}\\Status.data',\"r\", encoding='utf-8') as file:\n        Status = file.read()\n    return Status\ndef MicButtonInitialed():\n    SetMicrophonesStatus(\"False\")\ndef MicButtonClosed():\n    SetMicrophonesStatus(\"True\")\ndef GraphicDirectoryPath(Filename):\n    Path = rf'{GraphicsDirPath}\\{Filename}'",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "MicButtonInitialed",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def MicButtonInitialed():\n    SetMicrophonesStatus(\"False\")\ndef MicButtonClosed():\n    SetMicrophonesStatus(\"True\")\ndef GraphicDirectoryPath(Filename):\n    Path = rf'{GraphicsDirPath}\\{Filename}'\n    return Path\ndef TempDirectoryPath(Filename):\n    Path = rf'{TempDirPath}\\{Filename}'\n    return Path",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "MicButtonClosed",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def MicButtonClosed():\n    SetMicrophonesStatus(\"True\")\ndef GraphicDirectoryPath(Filename):\n    Path = rf'{GraphicsDirPath}\\{Filename}'\n    return Path\ndef TempDirectoryPath(Filename):\n    Path = rf'{TempDirPath}\\{Filename}'\n    return Path\ndef ShowTextToScreen(Text):\n    with open (rf'{TempDirPath}\\Responses.data',\"w\", encoding='utf-8') as file:",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "GraphicDirectoryPath",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def GraphicDirectoryPath(Filename):\n    Path = rf'{GraphicsDirPath}\\{Filename}'\n    return Path\ndef TempDirectoryPath(Filename):\n    Path = rf'{TempDirPath}\\{Filename}'\n    return Path\ndef ShowTextToScreen(Text):\n    with open (rf'{TempDirPath}\\Responses.data',\"w\", encoding='utf-8') as file:\n        file.write(Text)\nclass ChatSection(QWidget):",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "TempDirectoryPath",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def TempDirectoryPath(Filename):\n    Path = rf'{TempDirPath}\\{Filename}'\n    return Path\ndef ShowTextToScreen(Text):\n    with open (rf'{TempDirPath}\\Responses.data',\"w\", encoding='utf-8') as file:\n        file.write(Text)\nclass ChatSection(QWidget):\n        def __init__(self):\n            super(ChatSection, self).__init__()\n            layout = QVBoxLayout(self)",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "ShowTextToScreen",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def ShowTextToScreen(Text):\n    with open (rf'{TempDirPath}\\Responses.data',\"w\", encoding='utf-8') as file:\n        file.write(Text)\nclass ChatSection(QWidget):\n        def __init__(self):\n            super(ChatSection, self).__init__()\n            layout = QVBoxLayout(self)\n            layout.setContentsMargins(-10, 40, 40, 100)\n            layout.setSpacing(-100)\n            self.chat_text_edit = QTextEdit()",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "GraphicalUserInterface",
+        "kind": 2,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "def GraphicalUserInterface():\n    app = QApplication(sys.argv)\n    window = MainWindow()\n    window.show()\n    sys.exit(app.exec_())\nif __name__ == \"__main__\":\n    GraphicalUserInterface()",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "env_vars",
+        "kind": 5,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\nAssistantName = env_vars.get(\"Assistantname\")\ncurrent_dir = os.getcwd()\nold_chat_messsage = \"\"\nTempDirPath = rf\"{current_dir}\\Frontent\\Files\"\nGraphicsDirPath = rf\"{current_dir}\\Frontent\\Graphic\"\ndef AnswerModifier(ANswer):\n    lines = ANswer.split('\\n')\n    non_empty_lines = [line for line in lines if line.strip()]\n    modified_answer = '\\n'.join(non_empty_lines)",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "AssistantName",
+        "kind": 5,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "AssistantName = env_vars.get(\"Assistantname\")\ncurrent_dir = os.getcwd()\nold_chat_messsage = \"\"\nTempDirPath = rf\"{current_dir}\\Frontent\\Files\"\nGraphicsDirPath = rf\"{current_dir}\\Frontent\\Graphic\"\ndef AnswerModifier(ANswer):\n    lines = ANswer.split('\\n')\n    non_empty_lines = [line for line in lines if line.strip()]\n    modified_answer = '\\n'.join(non_empty_lines)\n    return modified_answer",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "current_dir = os.getcwd()\nold_chat_messsage = \"\"\nTempDirPath = rf\"{current_dir}\\Frontent\\Files\"\nGraphicsDirPath = rf\"{current_dir}\\Frontent\\Graphic\"\ndef AnswerModifier(ANswer):\n    lines = ANswer.split('\\n')\n    non_empty_lines = [line for line in lines if line.strip()]\n    modified_answer = '\\n'.join(non_empty_lines)\n    return modified_answer\ndef QueryModifier(Query):",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "old_chat_messsage",
+        "kind": 5,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "old_chat_messsage = \"\"\nTempDirPath = rf\"{current_dir}\\Frontent\\Files\"\nGraphicsDirPath = rf\"{current_dir}\\Frontent\\Graphic\"\ndef AnswerModifier(ANswer):\n    lines = ANswer.split('\\n')\n    non_empty_lines = [line for line in lines if line.strip()]\n    modified_answer = '\\n'.join(non_empty_lines)\n    return modified_answer\ndef QueryModifier(Query):\n    new_query = Query.lower().strip()",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "TempDirPath",
+        "kind": 5,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "TempDirPath = rf\"{current_dir}\\Frontent\\Files\"\nGraphicsDirPath = rf\"{current_dir}\\Frontent\\Graphic\"\ndef AnswerModifier(ANswer):\n    lines = ANswer.split('\\n')\n    non_empty_lines = [line for line in lines if line.strip()]\n    modified_answer = '\\n'.join(non_empty_lines)\n    return modified_answer\ndef QueryModifier(Query):\n    new_query = Query.lower().strip()\n    query_words = new_query.split()",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "GraphicsDirPath",
+        "kind": 5,
+        "importPath": "Frontent.GUI",
+        "description": "Frontent.GUI",
+        "peekOfCode": "GraphicsDirPath = rf\"{current_dir}\\Frontent\\Graphic\"\ndef AnswerModifier(ANswer):\n    lines = ANswer.split('\\n')\n    non_empty_lines = [line for line in lines if line.strip()]\n    modified_answer = '\\n'.join(non_empty_lines)\n    return modified_answer\ndef QueryModifier(Query):\n    new_query = Query.lower().strip()\n    query_words = new_query.split()\n    question_words = [\"how\", \"what\", \"who\", \"where\", \"when\", \"why\", \"which\", \"whose\", \"whom\", \"can you\", \"what's\", \"where's\", \"how's\"]",
+        "detail": "Frontent.GUI",
+        "documentation": {}
+    },
+    {
+        "label": "ShowDefaultChatIfNoChats",
+        "kind": 2,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "def ShowDefaultChatIfNoChats():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:\n            if len(file.read()) < 5:\n                with open(TempDirectoryPath('Database.data'), \"w\", encoding='utf8') as db_file:\n                    db_file.write(\"\")\n                with open(TempDirectoryPath('Responses.data'), \"w\", encoding='utf8') as resp_file:\n                    resp_file.write(DefaultMessage)\n    except FileNotFoundError:\n        print(\"ChatLog.json not found.\")",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "ReadChatLogJson",
+        "kind": 2,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "def ReadChatLogJson():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:\n            return json.load(file)\n    except FileNotFoundError:\n        print(\"ChatLog.json not found.\")\n        return []\n    except json.JSONDecodeError:\n        print(\"Error decoding JSON from ChatLog.json.\")\n        return []",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "ChatLogIntegration",
+        "kind": 2,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "def ChatLogIntegration():\n    try:\n        json_data = ReadChatLogJson()\n        formatted_chatlog = \"\"\n        for entry in json_data:\n            if entry[\"role\"] == \"user\":\n                formatted_chatlog += f\"User: {entry['content']}\\n\"\n            elif entry[\"role\"] == \"assistant\":\n                formatted_chatlog += f\"Assistantname: {entry['content']}\\n\"\n        with open(TempDirectoryPath('Database.data'), 'w', encoding='utf-8') as file:",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "ShowChatsOnGUI",
+        "kind": 2,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "def ShowChatsOnGUI():\n    try:\n        with open(TempDirectoryPath('Database.data'), 'r+', encoding='utf-8') as file:\n            Data = file.read()\n            if len(Data) > 0:\n                lines = Data.split('\\n')\n                result = '\\n'.join(lines)\n                file.seek(0)\n                file.write(result)\n                file.truncate()",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "InitialExecution",
+        "kind": 2,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "def InitialExecution():\n    SetMicrophonesStatus(\"False\")\n    ShowTextToScreen(\"\")\n    ShowDefaultChatIfNoChats()\n    ChatLogIntegration()\n    ShowChatsOnGUI()\nInitialExecution()\n# Function to execute main tasks\ndef MainExecution():\n    try:",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "MainExecution",
+        "kind": 2,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "def MainExecution():\n    try:\n        TaskExecution = False\n        ImageExecution = False\n        ImageGenerationQuery = \"\"\n        SetAssistantStatus(\"Listening...\")\n        Query = SpeechRecognition()\n        ShowTextToScreen(f\"{Username}: {Query}\")\n        SetAssistantStatus(\"Thinking...\")\n        Decision = first_layer_dmm(Query)",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "FirstThread",
+        "kind": 2,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "def FirstThread():\n    while True:\n        try:\n            CurrentStatus = GetMicrophonesStatus(\"status\")\n            if CurrentStatus == \"True\":\n                MainExecution()\n            else:\n                AIStatus = GetAssistantStatus(\"status\")\n                if \"Available\" in AIStatus:\n                    sleep(0.1)",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "SecondThread",
+        "kind": 2,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "def SecondThread():\n    try:\n        GraphicalUserInterface()\n    except Exception as e:\n        print(f\"Error in SecondThread: {e}\")\n# Main program execution\nif __name__ == \"__main__\":\n    thread2 = threading.Thread(target=FirstThread, daemon=True)\n    thread2.start()\n    SecondThread()",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "env_vars",
+        "kind": 5,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\nUsername = env_vars.get(\"Username\", \"User\")\nAssistantname = env_vars.get(\"Assistantname\", \"Assistant\")\nDefaultMessage = f'''{Username}: Hello {Assistantname}, How are You?\n{Assistantname}: Welcome {Username}. I am doing well. How may I help you?'''\n# Define global variables\nsubprocesses = []\nFunctions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "Username",
+        "kind": 5,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "Username = env_vars.get(\"Username\", \"User\")\nAssistantname = env_vars.get(\"Assistantname\", \"Assistant\")\nDefaultMessage = f'''{Username}: Hello {Assistantname}, How are You?\n{Assistantname}: Welcome {Username}. I am doing well. How may I help you?'''\n# Define global variables\nsubprocesses = []\nFunctions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():\n    try:",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "Assistantname",
+        "kind": 5,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "Assistantname = env_vars.get(\"Assistantname\", \"Assistant\")\nDefaultMessage = f'''{Username}: Hello {Assistantname}, How are You?\n{Assistantname}: Welcome {Username}. I am doing well. How may I help you?'''\n# Define global variables\nsubprocesses = []\nFunctions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultMessage",
+        "kind": 5,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "DefaultMessage = f'''{Username}: Hello {Assistantname}, How are You?\n{Assistantname}: Welcome {Username}. I am doing well. How may I help you?'''\n# Define global variables\nsubprocesses = []\nFunctions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:\n            if len(file.read()) < 5:",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "subprocesses",
+        "kind": 5,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "subprocesses = []\nFunctions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:\n            if len(file.read()) < 5:\n                with open(TempDirectoryPath('Database.data'), \"w\", encoding='utf8') as db_file:\n                    db_file.write(\"\")\n                with open(TempDirectoryPath('Responses.data'), \"w\", encoding='utf8') as resp_file:",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "Functions",
+        "kind": 5,
+        "importPath": "Testing.Testing",
+        "description": "Testing.Testing",
+        "peekOfCode": "Functions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:\n            if len(file.read()) < 5:\n                with open(TempDirectoryPath('Database.data'), \"w\", encoding='utf8') as db_file:\n                    db_file.write(\"\")\n                with open(TempDirectoryPath('Responses.data'), \"w\", encoding='utf8') as resp_file:\n                    resp_file.write(DefaultMessage)",
+        "detail": "Testing.Testing",
+        "documentation": {}
+    },
+    {
+        "label": "ShowDefaultChatIfNoChats",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def ShowDefaultChatIfNoChats():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:\n            if len(file.read()) < 5:\n                with open(TempDirectoryPath('Database.data'), \"w\", encoding='utf8') as db_file:\n                    db_file.write(\"\")\n                with open(TempDirectoryPath('Responses.data'), \"w\", encoding='utf8') as resp_file:\n                    resp_file.write(DefaultMessage)\n    except FileNotFoundError:\n        print(\"ChatLog.json not found.\")",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "ReadChatLogJson",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def ReadChatLogJson():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:\n            return json.load(file)\n    except FileNotFoundError:\n        print(\"ChatLog.json not found.\")\n        return []\n    except json.JSONDecodeError:\n        print(\"Error decoding JSON from ChatLog.json.\")\n        return []",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "ChatLogIntegration",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def ChatLogIntegration():\n    try:\n        json_data = ReadChatLogJson()\n        formatted_chatlog = \"\"\n        for entry in json_data:\n            if entry[\"role\"] == \"user\":\n                formatted_chatlog += f\"User: {entry['content']}\\n\"\n            elif entry[\"role\"] == \"assistant\":\n                formatted_chatlog += f\"Assistantname: {entry['content']}\\n\"\n        with open(TempDirectoryPath('Database.data'), 'w', encoding='utf-8') as file:",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "ShowChatsOnGUI",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def ShowChatsOnGUI():\n    try:\n        with open(TempDirectoryPath('Database.data'), 'r+', encoding='utf-8') as file:\n            Data = file.read()\n            if len(Data) > 0:\n                lines = Data.split('\\n')\n                result = '\\n'.join(lines)\n                file.seek(0)\n                file.write(result)\n                file.truncate()",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "InitialExecution",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def InitialExecution():\n    SetMicrophonesStatus(\"False\")\n    ShowTextToScreen(\"\")\n    ShowDefaultChatIfNoChats()\n    ChatLogIntegration()\n    ShowChatsOnGUI()\nInitialExecution()\n# Function to execute main tasks\ndef MainExecution():\n    try:",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "MainExecution",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def MainExecution():\n    try:\n        TaskExecution = False\n        ImageExecution = False\n        ImageGenerationQuery = \"\"\n        SetAssistantStatus(\"Listening...\")\n        Query = SpeechRecognition()\n        ShowTextToScreen(f\"{Username}: {Query}\")\n        SetAssistantStatus(\"Thinking...\")\n        Decision = first_layer_dmm(Query)",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "FirstThread",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def FirstThread():\n    while True:\n        try:\n            CurrentStatus = GetMicrophonesStatus(\"status\")\n            if CurrentStatus == \"True\":\n                MainExecution()\n            else:\n                AIStatus = GetAssistantStatus(\"status\")\n                if \"Available\" in AIStatus:\n                    sleep(0.1)",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "SecondThread",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def SecondThread():\n    try:\n        GraphicalUserInterface()\n    except Exception as e:\n        print(f\"Error in SecondThread: {e}\")\n# Main program execution\nif __name__ == \"__main__\":\n    thread2 = threading.Thread(target=FirstThread, daemon=True)\n    thread2.start()\n    SecondThread()",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "env_vars",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\nUsername = env_vars.get(\"Username\", \"User\")\nAssistantname = env_vars.get(\"Assistantname\", \"Assistant\")\nDefaultMessage = f'''{Username}: Hello {Assistantname}, How are You?\n{Assistantname}: Welcome {Username}. I am doing well. How may I help you?'''\n# Define global variables\nsubprocesses = []\nFunctions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "Username",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "Username = env_vars.get(\"Username\", \"User\")\nAssistantname = env_vars.get(\"Assistantname\", \"Assistant\")\nDefaultMessage = f'''{Username}: Hello {Assistantname}, How are You?\n{Assistantname}: Welcome {Username}. I am doing well. How may I help you?'''\n# Define global variables\nsubprocesses = []\nFunctions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():\n    try:",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "Assistantname",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "Assistantname = env_vars.get(\"Assistantname\", \"Assistant\")\nDefaultMessage = f'''{Username}: Hello {Assistantname}, How are You?\n{Assistantname}: Welcome {Username}. I am doing well. How may I help you?'''\n# Define global variables\nsubprocesses = []\nFunctions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultMessage",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "DefaultMessage = f'''{Username}: Hello {Assistantname}, How are You?\n{Assistantname}: Welcome {Username}. I am doing well. How may I help you?'''\n# Define global variables\nsubprocesses = []\nFunctions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:\n            if len(file.read()) < 5:",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "subprocesses",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "subprocesses = []\nFunctions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:\n            if len(file.read()) < 5:\n                with open(TempDirectoryPath('Database.data'), \"w\", encoding='utf8') as db_file:\n                    db_file.write(\"\")\n                with open(TempDirectoryPath('Responses.data'), \"w\", encoding='utf8') as resp_file:",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "Functions",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "Functions = [\"open\", \"close\", \"play\", \"system\", \"contents\", \"google search\", \"youtube search\"]\n# Function to show default chat if no chats exist\ndef ShowDefaultChatIfNoChats():\n    try:\n        with open(r'Data\\ChatLog.json', \"r\", encoding='utf8') as file:\n            if len(file.read()) < 5:\n                with open(TempDirectoryPath('Database.data'), \"w\", encoding='utf8') as db_file:\n                    db_file.write(\"\")\n                with open(TempDirectoryPath('Responses.data'), \"w\", encoding='utf8') as resp_file:\n                    resp_file.write(DefaultMessage)",
+        "detail": "Main",
+        "documentation": {}
+    }
+]

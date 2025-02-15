@@ -64,7 +64,7 @@ def TextToSpeech(text: str, func=lambda r=None: True):
         "Sir, please check the chat screen for more information.",
     ]
 
-    if len(sentences) > 4 and len(text) >= 250:
+    if len(sentences) > 10 and len(text) >= 2500:
         TTS(" ".join(sentences[:2]) + "." + random.choice(responses), func)
     else:
         TTS(text, func)
