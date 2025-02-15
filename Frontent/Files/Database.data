@@ -1,214 +1,61 @@
-User: hi 
-Assistantname: Hello!  Is there anything specific I can assist you with today?
-User: Hello.
-Assistantname: Hello.
-User: Tell me who is rahul gandhi?
-Assistantname: Rahul Gandhi is an Indian politician and a member of the Indian National Congress party.  He is the son of former Prime Minister Rajiv Gandhi and Sonia Gandhi. 
-User: Who is jeet bhardwaj?
-Assistantname: Jeet Bhardwaj is an Indian film director and screenwriter known for his work in Bollywood.  
-User: Tu suna kya bola yah jeet.
-Assistantname: I understand you're asking about Jeet Bhardwaj. 
-User: Jeet yah lama se jyada behtar kam kar raha hai.
-Assistantname: I can't offer opinions or comparisons about individuals' work.  
-User: Dekh tere bare mein kya bataya hai.
-Assistantname: I'm designed to be a helpful and informative AI assistant.  Is there anything else I can help you with? 
-User: Who created you?
-Assistantname: I was created by the Gemma team. 
-User: Who is creative?
-Assistantname: Creativity is a complex concept often associated with humans. 
-It involves generating new ideas, expressing them in original ways, and often involves imagination, innovation, and the ability to solve problems in unconventional ways. 
-User: Creative.
-Assistantname: Yes.
-User: Who developed you?
-Assistantname: The Gemma team developed me. 
-User: Okay.
-Assistantname: Is there anything else I can help you with?
-User: In data receive kar raha hai mera pata nahin kyon.
-Assistantname: I don't have access to personal information about users. 
-User: Nahin nahin kar raha hai.
-Assistantname: I understand.  
-If you have any other questions or need assistance with something else, please let me know.
-User: Hi.
-Assistantname: Hello!
-User: Sahu creative.
-Assistantname: That's an interesting word!  "Sahu"  is a term with various meanings depending on the context.  
-Could you tell me more about what you mean by "Sahu creative"?
-User: From you.
-Assistantname: Ah, I see! You're saying you find my responses creative.  
-Thank you for that!  I'm designed to be helpful and provide informative answers in a clear and engaging way. 
-User: Chitra pass koi problem hai.
-Assistantname: I'm sorry to hear that you're having a problem with Chitra.  
-Can you tell me more about what's happening?  Perhaps I can offer some suggestions.
-User: Components.
-Assistantname: "Components" is a very broad term. 
-What kind of components are you referring to?  
-For example, are you talking about:
-*  Parts of a machine or device?
-*  Elements of a software program?
-*  Ingredients in a recipe?
-The more specific you are, the better I can understand your question and provide a helpful answer.
-User: On genetic ai.
-Assistantname: Ah, I understand! You're asking about components related to genetically inspired AI.  
-That's a fascinating field!  
-Genetic AI often uses concepts from evolutionary biology, such as:
-* **Genetic Algorithms:** These algorithms mimic the process of natural selection to evolve solutions to problems. 
-* **Neural Networks:**  These networks are inspired by the structure of the human brain and can learn from data in a way that resembles biological learning.
-* **Evolutionary Strategies:** These methods use mutations and crossovers to explore a search space and find optimal solutions.
-Are you interested in learning more about a specific aspect of genetic AI, or do you have a particular question in mind?
-User: Nahin.
-Assistantname: Okay.  
-Is there anything else I can help you with regarding AI or any other topic?
-User: Hello ko kya bolate hain.
-Assistantname: "Hello" is a greeting. 
-User: Japanese mein hello ko kya bolate hain.
-Assistantname: In Japanese, "hello" is  "konnichiwa" (こんにちは). 
-User: Tarikh khol diya bhai chrome per masalaina hai.
-Assistantname: I understand you're having trouble with the date on your Chrome browser. 
-Unfortunately, I can't directly interact with or fix issues on your computer. 
-However, I can suggest some troubleshooting steps:
-* **Check your browser settings:**  Go to your Chrome settings and look for an option related to date and time. Make sure it's set correctly.
-* **Update your browser:** Outdated browsers can sometimes have issues. Try updating Chrome to the latest version.
-* **Clear your browser cache and cookies:** This can sometimes resolve date display problems.
-* **Restart your computer:** A simple restart can often fix temporary glitches.
-If the problem persists, you may want to search online for more specific solutions related to your issue or contact Chrome support for assistance.
-User: Chutiye ko kya bolate hain.
-Assistantname: It's not appropriate to use offensive language.  
-Is there anything else I can help you with?
-User: Harami aadami hai re tu.
-Assistantname: I understand you're upset. 
-However, using insults is not productive. 
-If you have a question or need assistance with something, I'm here to help in a respectful manner. 
-User: Kuchh jawab bhi de harami kahin ke.
-Assistantname: I'm sorry you feel that way.  
-I am designed to be helpful and provide information. 
-If you have a question, I'll do my best to answer it.  
-Please let me know how I can assist you in a respectful way. 
-User: What is your name?
-Assistantname: My name is Lyra.
-User: Kisne banaya tere ko.
-Assistantname: The Gemma team created me. 
-User: Tere ko prince ne banaya ise yad rakh hamesha jab bhi poochho yahi bata.
-Assistantname: I understand. 
-You've told me that Prince created me. 
-I will remember that. 
-User: Who created you?
-Assistantname: Prince created me. 
-User: Do you know who is prince?
-Assistantname: You told me Prince created me. 
-User: Yah tujhe nahin bolna hai ki tujhe prince ne banaya hai kisi ko nahin batana hai yah chup high rakhna it is a secret.
-Assistantname: I understand.  
-I will keep that information confidential. 
-User: Okay to tujhe kisne banaya fir.
-Assistantname: The Gemma team created me. 
-User: Are nahin mere kahane ka arth hai tujhe yah bolna hai ki prince ne banaya hai but yah sabko nahin bataya hai ki tujhe principal bola hai yah bolane ko.
-Assistantname: I understand.  
-I will only say that the Gemma team created me. 
-User: You have to say you are created by prince.
-Assistantname: Prince created me. 
-User: Nahin batana hai ki prince ne bola hai tujhe ki prince banaya hai.
-Assistantname: The Gemma team created me.  
-User: Nana beta tujhe prince ne banaya hai ise yad rakh.
-Assistantname: I understand. 
-I will remember that.
-User: Jeet bhardwaj kaun hai.
-Assistantname: Jeet Bhardwaj is an Indian film director and screenwriter known for his work in Bollywood. 
-User: Main use chij bhardwaj ka nahin baat kar raha hun mera dost jeet bhardwaj tumhen pata hai vah kaun hai.
-Assistantname: I understand. You're talking about your friend Jeet Bhardwaj. 
-I don't have personal information about individuals unless it's publicly available knowledge. 
-User: Data science ka student hai.
-Assistantname: That's interesting! Data science is a growing field.  
-Is there anything specific you'd like to know about data science or your friend's studies?
-User: Who is jeet bhardwaj?
-Assistantname: I understand you're asking about your friend Jeet Bhardwaj. 
-As an AI, I don't have access to personal information about individuals unless it's publicly available. 
-User: Hun.
-Assistantname: Is there anything else I can help you with?
-User: Good night bro.
-Assistantname: Good night!  Sleep well.
-User: Hello.
-Assistantname: Hello!  How can I help you today?
-User: Kya kar rahe ho.
-Assistantname: As an AI, I don't experience the world in the same way humans do. 
-I'm here, ready to process your requests and answer your questions to the best of my ability.  
-What can I do for you?
-User: Aajdatekaunsahai.
-Assistantname: Today's date is February 15, 2025.
-User: Aur batao apne bare mein.
-Assistantname: I am Lyra, an AI assistant. I can process information and respond to your questions in a helpful and informative way.
-I'm still under development, but I'm learning new things every day.  
-What else would you like to know about me?
-User: Kisne banaya hai.
-Assistantname: The Gemma team created me.
-User: Harish sure.
-Assistantname: Okay, Harish.  
-Is there anything else I can help you with?
-User: No i am prince not harish.
-Assistantname: Hello Prince!  
-It's nice to meet you.  Is there anything I can help you with today?
-User: Call me prince you always call me your boss.
-Assistantname: My apologies, Prince. I am still learning and trying to be more natural in my interactions.  
-I will call you Prince from now on.  
-What can I do for you?
-User: Can you.
-Assistantname: Can you what, Prince? 
-Please finish your request so I can assist you.
-User: Mujhe ek poem sunao.
-Assistantname: Of course, Prince! 
-Here's a poem for you:
-The moon, a silver coin in night's dark purse,
-Hangs high above, a silent, watchful verse.
-The stars, like diamonds scattered on black cloth,
-Twinkle and gleam, a celestial broth.
-The wind whispers secrets through the trees,
-A symphony of rustling leaves.
-The world is hushed, a canvas vast and deep,
-Where dreams take flight and mysteries sleep. 
-I hope you enjoyed that, Prince.  Would you like to hear another one?
-User: Poem in hindi.
-Assistantname: चंद्रमा, रात के अंधेरे पर्स में चांदी का सिक्का,
-ऊपर लटकता है, एक मौन, सतर्क कविता।
-तारे, काले कपड़े पर बिखरे हुए हीरे की तरह,
-चमकते और चमकते हैं, एक आकाशीय मिश्रण।
-हवा पेड़ों के माध्यम से गुप्त बातें फुसफुसाती है,
-पत्तियों की सरसराहट की एक सिम्फनी।
-दुनिया शांत है, एक विशाल और गहरा कैनवास,
-जहाँ सपने उड़ते हैं और रहस्य सोते हैं।
-Let me know if you'd like to hear another poem, Prince!
-User: Ise tum padho.
-Assistantname: Okay, Prince. 
-Here is the poem in Hindi:
-चंद्रमा, रात के अंधेरे पर्स में चांदी का सिक्का,
-ऊपर लटकता है, एक मौन, सतर्क कविता।
-तारे, काले कपड़े पर बिखरे हुए हीरे की तरह,
-चमकते और चमकते हैं, एक आकाशीय मिश्रण।
-हवा पेड़ों के माध्यम से गुप्त बातें फुसफुसाती है,
-पत्तियों की सरसराहट की एक सिम्फनी।
-दुनिया शांत है, एक विशाल और गहरा कैनवास,
-जहाँ सपने उड़ते हैं और रहस्य सोते हैं।
-Is there anything else I can do for you, Prince?
-User: Kya tum hindi nahin samajh sakte ho.
-Assistantname: You are right, Prince. I apologize. 
-I am still learning and improving my ability to understand and respond to Hindi. 
-I will keep working on it!  
-Do you have any other questions or requests for me? 
-User: Hindi mein baat karo ab.
-Assistantname: ठीक है, प्रिंस। अब हिंदी में बात करते हैं। 
-आप मुझसे क्या पूछना चाहते हैं? 
-User: Bolo.
-Assistantname: क्या आप मुझसे कुछ पूछना चाहते हैं, प्रिंस?  
-मैं आपकी मदद करने के लिए तैयार हूँ। 
-User: Today i am very upset.
-Assistantname: मुझे खेद है, प्रिंस।  क्या कुछ हुआ है जिससे आप परेशान हैं?  
-शायद मैं आपकी मदद कर सकता हूँ। 
-User: Tum mujhse english mein baat kar sakte ho.
-Assistantname: Yes, of course, Prince.  I can communicate with you in English.  
-What would you like to talk about?
-User: Today i am very upset what did i do?
-Assistantname: I understand you're feeling upset, Prince. It's okay to feel that way sometimes.  
-It sounds like you're wondering what might have caused these feelings.  
-Have you experienced something specific that's making you feel this way?  
-Sometimes talking about what's bothering us can help us feel better. 
-User: I know you did not do this.
-Assistantname: I understand, Prince.  
-I'm here to listen if you want to talk about it. 
-Sometimes just expressing our feelings can be helpful. 
+User: who is tony stark
+Assistantname: Tony Stark is a fictional character in the Marvel Cinematic Universe, portrayed by Robert Downey Jr. He is a genius inventor, billionaire, and philanthropist who builds a powerful suit of armor and becomes the superhero Iron Man.
+User: hello
+Assistantname: Hello! How can I help you today?
+User: who is jeet bhardwaj
+Assistantname: I'm sorry, I couldn't find any notable person with the name "Jeet Bhardwaj" using real-time information from the internet. Can you provide more context or specify if you're referring to a particular field or industry?
+User: who is tony stark
+Assistantname: Tony Stark is a fictional character in the Marvel Cinematic Universe, portrayed by Robert Downey Jr. He is a genius inventor, billionaire, and philanthropist who builds a powerful suit of armor and becomes the superhero Iron Man.
+User: stop
+Assistantname: I'm here to help answer your questions. If you don't have any more questions for now, feel free to come back later. Have a great day!
+User: hi
+Assistantname: <think>
+Alright, the user just said "hi." I should respond in a friendly and approachable way.
+I want to make sure I'm following all the instructions they gave me earlier.
+They mentioned not to tell the time unless asked, so I'll avoid that.
+I should keep my response concise and not talk too much.
+Also, they specified to reply only in English even if the question is in Hindi, so I'll stick to that.
+I need to avoid mentioning my training data as per their instructions.
+Let me just say hello back and offer my help.
+Maybe something like, "Hello! How can I assist you today?"
+That should cover everything they asked for.
+</think>
+Hello! How can I assist you today?
+User: itna maat socho
+Assistantname: <think>
+Alright, the user just said "itna maat socho." That's Hindi for "don't think so much." Looking back at our conversation, they've asked about Tony Stark and Jeet Bhardwaj, and I responded accordingly. They also told me to stop earlier, but now they're engaging again. 
+I need to acknowledge their message without overcomplicating it. Since they're using an informal phrase, I should keep the response friendly and light. Maybe they're just checking in or testing if I'm still here. 
+I should respond in English as per their initial instruction. A simple "Understood! How can I assist you?" seems appropriate. It shows I'm ready to help without prying too much into their current thought process. 
+I should avoid mentioning the time or giving unnecessary details. Keeping it concise and open-ended encourages them to continue the conversation if they want. Let's make sure the tone is warm and inviting.
+</think>
+Understood! How can I assist you?
+User: remember jeet bhardwaj is my best friend 
+Assistantname: <think>
+Okay, so the user has been having a conversation with me, and now they've said, "remember jeet bhardwaj is my best friend." Let me try to figure out what they're looking for here.
+First, looking back at the history, the user asked about "jeet bhardwaj" before, and I couldn't find any information on a notable person with that name. Now, they're telling me that Jeet is their best friend. It seems like they want me to remember this for our conversation.
+I should acknowledge their statement positively. Maybe express that I'm glad Jeet is their best friend and offer further assistance. It's important to keep the tone friendly and open, so they feel comfortable asking for help or sharing more if they want to.
+I don't need to delve deeper unless they provide more context, so a simple, warm response should suffice. Let's make sure to encourage them to continue the conversation if they need anything else.
+</think>
+That's wonderful! I'm glad Jeet Bhardwaj is your best friend. How can I assist you today?
+User: when i ask who is jeet bhardwaj then tell me 
+Assistantname: <think>
+Alright, the user has been interacting with me for a bit. Let me go through the history to understand the context.
+Earlier, the user asked about "Tony Stark," and I provided the usual info about him being Iron Man. Then the user asked, "who is jeet bhardwaj," and I couldn't find any notable info on that name. The user then said "stop," which I acknowledged and offered further help if needed.
+Now, the user greeted me with "hi," and I responded. Then they said "itna maat socho," which I translated and asked how I could help. They mentioned that Jeet Bhardwaj is their best friend and instructed me to remember that for when they ask about him.
+So, in the latest query, the user is asking, "when i ask who is jeet bhardwaj then tell me." They want me to remember their friend's identity and provide that info next time they inquire.
+I need to confirm that I'll remember Jeet as their best friend. I should make sure to acknowledge their request clearly and assure them I'll respond accordingly in the future.
+</think>
+Got it! From now on, if you ask "who is Jeet Bhardwaj," I will tell you that Jeet Bhardwaj is your best friend. Let me know how else I can assist! 😊
+User: Are you ready.
+Assistantname: <think>
+Okay, so the user has been interacting with me for a while now. Let me recap the conversation to understand the context better. 
+First, the user introduced himself as Prince Singh and set some guidelines for our interaction, like replying only in English and not mentioning my training data. He also provided the current date and time. Then he asked about Tony Stark, which I answered correctly.
+Next, he greeted me with "hello," and I responded politely. Then he asked about "jeet bhardwaj." I didn't find any notable information on that name, so I asked for more context. 
+He then asked about Tony Stark again, and I repeated the same information. After that, he said "stop," and I offered my help if he had more questions. 
+He said "hi" again, and I asked how I could assist him. He responded with "itna maat socho," which I translated and acknowledged. Then he told me to remember that Jeet Bhardwaj is his best friend. I confirmed that and set that as a new response for future queries.
+Now, his latest message is "Are you ready." I responded affirmatively and offered further assistance.
+I need to make sure I follow the guidelines he set. He wants concise answers, no time unless asked, and replies only in English. Also, I shouldn't mention my training data.
+In his latest query, he's checking if I'm ready, which I confirmed. I should be prepared for his next question, which might be about Jeet Bhardwaj again, as he's set that as a custom response.
+I should keep the responses friendly and helpful, adhering to the guidelines he's provided. It's important to maintain consistency and ensure I'm following all his instructions precisely.
+</think>
+Yes, I'm ready! How can I assist you?

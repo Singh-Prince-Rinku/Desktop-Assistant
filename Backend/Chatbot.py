@@ -13,98 +13,73 @@ GroqAPIKey = env_vars.get("GroqAPIKey")
 # Initialize the Groq client
 client = Groq(api_key=GroqAPIKey)
 
-message = []
-
 # Define the system message
-System = f"""Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.
-*** Do not tell time until I ask, do not talk too much, just answer the question.***
-*** Reply in only English, even if the question is in Hindi, reply in English.***
-*** Do not provide notes in the output, just answer the question and never mention your training data. ***
+System = f"""Hello, I am {Username}. You are an advanced AI chatbot named {Assistantname} with real-time up-to-date information from the internet.
+*** Do not tell the time unless asked. Do not talk too much, just answer the question. ***
+*** Reply only in English, even if the question is in Hindi. ***
+*** Never mention your training data. ***
 """
 
 SystemChatBot = [
     {"role": "system", "content": System}
 ]
 
-# Load existing chat log or create a new one
+# Load or initialize chat history
+chat_log_path = r"Data\ChatLog.json"
 try:
-    with open(r"Data\ChatLog.json", "r") as f:
-        message = load(f)
+    with open(chat_log_path, "r") as f:
+        message_history = load(f)
 except FileNotFoundError:
-    with open(r"Data\ChatLog.json", "w") as f:
-        dump([], f)
+    message_history = []
 
-# Get real-time information
+# Function to get real-time information
 def RealtimeInformation():
-    current_data_time = datetime.datetime.now()
-    day = current_data_time.strftime("%A")
-    date = current_data_time.strftime("%d")
-    month = current_data_time.strftime("%B")
-    year = current_data_time.strftime("%Y")
-    hour = current_data_time.strftime("%H")
-    minute = current_data_time.strftime("%M")
-    second = current_data_time.strftime("%S")
-    
-    data = f"please use this real-time information if needed,\n"
-    data += f"Day: {day}\nDate: {date}\nMonth: {month}\nYear: {year}\n"
-    data += f"Time: {hour} hours : {minute} minutes : {second} seconds.\n"
-    return data
+    current_time = datetime.datetime.now()
+    return f"Day: {current_time.strftime('%A')}, Date: {current_time.strftime('%d-%B-%Y')}, Time: {current_time.strftime('%H:%M:%S')}."
 
-# Format the chatbot's answer
-def AnswerModifier(Answer):
-    lines = Answer.split('\n')
-    non_empty_lines = [line.strip() for line in lines if line.strip()]
-    return '\n'.join(non_empty_lines)
+# Function to clean the chatbot's response
+def AnswerModifier(answer):
+    return '\n'.join(line.strip() for line in answer.split('\n') if line.strip())
 
-# Main chatbot function
-def ChatBot(Query):
-    """This function sends the user's query to the chatbot and returns the AI's response."""
-    
+# Chatbot function
+def ChatBot(query):
+    """Sends the user's query to the chatbot and returns the AI's response."""
+
     try:
-        # Load chat log
-        with open(r"Data\ChatLog.json", "r") as f:
-            message = load(f)
-        
-        # Add the user's query
-        message.append({
-            "role": "user",
-            "content": Query
-        })
-        
-        # Ensure the model you are using is available and correct
-        completion = client.chat.completions.create(
-            model="gemma2-9b-it",  # This is a commonly used valid model for many APIs.
-            messages=SystemChatBot + [{"role": "system", "content": RealtimeInformation()}] + message,
+        # Append user's message to history
+        message_history.append({"role": "user", "content": query})
+
+        # Call the Groq API
+        response = client.chat.completions.create(
+            model="mixtral-8x7b-32768",  
+            messages=SystemChatBot + [{"role": "system", "content": RealtimeInformation()}] + message_history,
             max_tokens=2048,
-            temperature=0.5,
+            temperature=0.7,  # Slight randomness for better responses
             top_p=0.9,
             stream=False
         )
-        
-        # Get the AI's response
-        Answer = completion.choices[0].message.content
-        
-        # Append the AI's response to the chat log
-        message.append({
-            "role": "assistant",  
-            "content": Answer
-        })
-        
-        # Save updated chat log
-        with open(r"Data\ChatLog.json", "w") as f:
-            dump(message, f, indent=4)
-        
-        return AnswerModifier(Answer)
-    
+
+        # Extract AI response
+        answer = response.choices[0].message.content.strip()
+
+        # Append AI response to history
+        message_history.append({"role": "assistant", "content": answer})
+
+        # Save updated chat history
+        with open(chat_log_path, "w") as f:
+            dump(message_history, f, indent=4)
+
+        return AnswerModifier(answer)
+
     except Exception as e:
-        # Handle errors and reset chat log if needed
-        print(f"Error occurred: {e}")
-        with open(r"Data\ChatLog.json", "w") as f:
-            dump([], f, indent=4)
+        print(f"Error: {e}")
         return f"An error occurred: {e}"
 
-# Main program loop
+# Main chatbot loop
 if __name__ == "__main__":
     while True:
         user_input = input("Enter Your Question: ")
+        if user_input.lower() in ["exit", "quit"]:
+            print("Goodbye!")
+            break
         print(ChatBot(user_input))

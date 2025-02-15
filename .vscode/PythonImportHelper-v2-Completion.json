@@ -492,6 +492,15 @@
         "documentation": {}
     },
     {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
         "label": "edge_tts",
         "kind": 6,
         "isExtraImport": true,
@@ -1333,7 +1342,7 @@
         "kind": 2,
         "importPath": "Backend.Chatbot",
         "description": "Backend.Chatbot",
-        "peekOfCode": "def RealtimeInformation():\n    current_data_time = datetime.datetime.now()\n    day = current_data_time.strftime(\"%A\")\n    date = current_data_time.strftime(\"%d\")\n    month = current_data_time.strftime(\"%B\")\n    year = current_data_time.strftime(\"%Y\")\n    hour = current_data_time.strftime(\"%H\")\n    minute = current_data_time.strftime(\"%M\")\n    second = current_data_time.strftime(\"%S\")\n    data = f\"please use this real-time information if needed,\\n\"",
+        "peekOfCode": "def RealtimeInformation():\n    current_time = datetime.datetime.now()\n    return f\"Day: {current_time.strftime('%A')}, Date: {current_time.strftime('%d-%B-%Y')}, Time: {current_time.strftime('%H:%M:%S')}.\"\n# Function to clean the chatbot's response\ndef AnswerModifier(answer):\n    return '\\n'.join(line.strip() for line in answer.split('\\n') if line.strip())\n# Chatbot function\ndef ChatBot(query):\n    \"\"\"Sends the user's query to the chatbot and returns the AI's response.\"\"\"\n    try:",
         "detail": "Backend.Chatbot",
         "documentation": {}
     },
@@ -1342,7 +1351,7 @@
         "kind": 2,
         "importPath": "Backend.Chatbot",
         "description": "Backend.Chatbot",
-        "peekOfCode": "def AnswerModifier(Answer):\n    lines = Answer.split('\\n')\n    non_empty_lines = [line.strip() for line in lines if line.strip()]\n    return '\\n'.join(non_empty_lines)\n# Main chatbot function\ndef ChatBot(Query):\n    \"\"\"This function sends the user's query to the chatbot and returns the AI's response.\"\"\"\n    try:\n        # Load chat log\n        with open(r\"Data\\ChatLog.json\", \"r\") as f:",
+        "peekOfCode": "def AnswerModifier(answer):\n    return '\\n'.join(line.strip() for line in answer.split('\\n') if line.strip())\n# Chatbot function\ndef ChatBot(query):\n    \"\"\"Sends the user's query to the chatbot and returns the AI's response.\"\"\"\n    try:\n        # Append user's message to history\n        message_history.append({\"role\": \"user\", \"content\": query})\n        # Call the Groq API\n        response = client.chat.completions.create(",
         "detail": "Backend.Chatbot",
         "documentation": {}
     },
@@ -1351,7 +1360,7 @@
         "kind": 2,
         "importPath": "Backend.Chatbot",
         "description": "Backend.Chatbot",
-        "peekOfCode": "def ChatBot(Query):\n    \"\"\"This function sends the user's query to the chatbot and returns the AI's response.\"\"\"\n    try:\n        # Load chat log\n        with open(r\"Data\\ChatLog.json\", \"r\") as f:\n            message = load(f)\n        # Add the user's query\n        message.append({\n            \"role\": \"user\",\n            \"content\": Query",
+        "peekOfCode": "def ChatBot(query):\n    \"\"\"Sends the user's query to the chatbot and returns the AI's response.\"\"\"\n    try:\n        # Append user's message to history\n        message_history.append({\"role\": \"user\", \"content\": query})\n        # Call the Groq API\n        response = client.chat.completions.create(\n            model=\"mixtral-8x7b-32768\",  \n            messages=SystemChatBot + [{\"role\": \"system\", \"content\": RealtimeInformation()}] + message_history,\n            max_tokens=2048,",
         "detail": "Backend.Chatbot",
         "documentation": {}
     },
@@ -1360,7 +1369,7 @@
         "kind": 5,
         "importPath": "Backend.Chatbot",
         "description": "Backend.Chatbot",
-        "peekOfCode": "env_vars = dotenv_values(\".env\")\nUsername = env_vars.get(\"Username\")\nAssistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\nmessage = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\nUsername = env_vars.get(\"Username\")\nAssistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}. You are an advanced AI chatbot named {Assistantname} with real-time up-to-date information from the internet.\n*** Do not tell the time unless asked. Do not talk too much, just answer the question. ***\n*** Reply only in English, even if the question is in Hindi. ***",
         "detail": "Backend.Chatbot",
         "documentation": {}
     },
@@ -1369,7 +1378,7 @@
         "kind": 5,
         "importPath": "Backend.Chatbot",
         "description": "Backend.Chatbot",
-        "peekOfCode": "Username = env_vars.get(\"Username\")\nAssistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\nmessage = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***",
+        "peekOfCode": "Username = env_vars.get(\"Username\")\nAssistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}. You are an advanced AI chatbot named {Assistantname} with real-time up-to-date information from the internet.\n*** Do not tell the time unless asked. Do not talk too much, just answer the question. ***\n*** Reply only in English, even if the question is in Hindi. ***\n*** Never mention your training data. ***",
         "detail": "Backend.Chatbot",
         "documentation": {}
     },
@@ -1378,7 +1387,7 @@
         "kind": 5,
         "importPath": "Backend.Chatbot",
         "description": "Backend.Chatbot",
-        "peekOfCode": "Assistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\nmessage = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***\n*** Do not provide notes in the output, just answer the question and never mention your training data. ***",
+        "peekOfCode": "Assistantname = env_vars.get(\"Assistantname\")\nGroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}. You are an advanced AI chatbot named {Assistantname} with real-time up-to-date information from the internet.\n*** Do not tell the time unless asked. Do not talk too much, just answer the question. ***\n*** Reply only in English, even if the question is in Hindi. ***\n*** Never mention your training data. ***\n\"\"\"",
         "detail": "Backend.Chatbot",
         "documentation": {}
     },
@@ -1387,7 +1396,7 @@
         "kind": 5,
         "importPath": "Backend.Chatbot",
         "description": "Backend.Chatbot",
-        "peekOfCode": "GroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\nmessage = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***\n*** Do not provide notes in the output, just answer the question and never mention your training data. ***\n\"\"\"",
+        "peekOfCode": "GroqAPIKey = env_vars.get(\"GroqAPIKey\")\n# Initialize the Groq client\nclient = Groq(api_key=GroqAPIKey)\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}. You are an advanced AI chatbot named {Assistantname} with real-time up-to-date information from the internet.\n*** Do not tell the time unless asked. Do not talk too much, just answer the question. ***\n*** Reply only in English, even if the question is in Hindi. ***\n*** Never mention your training data. ***\n\"\"\"\nSystemChatBot = [",
         "detail": "Backend.Chatbot",
         "documentation": {}
     },
@@ -1396,16 +1405,7 @@
         "kind": 5,
         "importPath": "Backend.Chatbot",
         "description": "Backend.Chatbot",
-        "peekOfCode": "client = Groq(api_key=GroqAPIKey)\nmessage = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***\n*** Do not provide notes in the output, just answer the question and never mention your training data. ***\n\"\"\"\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": System}",
-        "detail": "Backend.Chatbot",
-        "documentation": {}
-    },
-    {
-        "label": "message",
-        "kind": 5,
-        "importPath": "Backend.Chatbot",
-        "description": "Backend.Chatbot",
-        "peekOfCode": "message = []\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***\n*** Do not provide notes in the output, just answer the question and never mention your training data. ***\n\"\"\"\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": System}\n]",
+        "peekOfCode": "client = Groq(api_key=GroqAPIKey)\n# Define the system message\nSystem = f\"\"\"Hello, I am {Username}. You are an advanced AI chatbot named {Assistantname} with real-time up-to-date information from the internet.\n*** Do not tell the time unless asked. Do not talk too much, just answer the question. ***\n*** Reply only in English, even if the question is in Hindi. ***\n*** Never mention your training data. ***\n\"\"\"\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": System}\n]",
         "detail": "Backend.Chatbot",
         "documentation": {}
     },
@@ -1414,7 +1414,7 @@
         "kind": 5,
         "importPath": "Backend.Chatbot",
         "description": "Backend.Chatbot",
-        "peekOfCode": "System = f\"\"\"Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which also has real-time up-to-date information from the internet.\n*** Do not tell time until I ask, do not talk too much, just answer the question.***\n*** Reply in only English, even if the question is in Hindi, reply in English.***\n*** Do not provide notes in the output, just answer the question and never mention your training data. ***\n\"\"\"\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": System}\n]\n# Load existing chat log or create a new one\ntry:",
+        "peekOfCode": "System = f\"\"\"Hello, I am {Username}. You are an advanced AI chatbot named {Assistantname} with real-time up-to-date information from the internet.\n*** Do not tell the time unless asked. Do not talk too much, just answer the question. ***\n*** Reply only in English, even if the question is in Hindi. ***\n*** Never mention your training data. ***\n\"\"\"\nSystemChatBot = [\n    {\"role\": \"system\", \"content\": System}\n]\n# Load or initialize chat history\nchat_log_path = r\"Data\\ChatLog.json\"",
         "detail": "Backend.Chatbot",
         "documentation": {}
     },
@@ -1423,7 +1423,16 @@
         "kind": 5,
         "importPath": "Backend.Chatbot",
         "description": "Backend.Chatbot",
-        "peekOfCode": "SystemChatBot = [\n    {\"role\": \"system\", \"content\": System}\n]\n# Load existing chat log or create a new one\ntry:\n    with open(r\"Data\\ChatLog.json\", \"r\") as f:\n        message = load(f)\nexcept FileNotFoundError:\n    with open(r\"Data\\ChatLog.json\", \"w\") as f:\n        dump([], f)",
+        "peekOfCode": "SystemChatBot = [\n    {\"role\": \"system\", \"content\": System}\n]\n# Load or initialize chat history\nchat_log_path = r\"Data\\ChatLog.json\"\ntry:\n    with open(chat_log_path, \"r\") as f:\n        message_history = load(f)\nexcept FileNotFoundError:\n    message_history = []",
+        "detail": "Backend.Chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "chat_log_path",
+        "kind": 5,
+        "importPath": "Backend.Chatbot",
+        "description": "Backend.Chatbot",
+        "peekOfCode": "chat_log_path = r\"Data\\ChatLog.json\"\ntry:\n    with open(chat_log_path, \"r\") as f:\n        message_history = load(f)\nexcept FileNotFoundError:\n    message_history = []\n# Function to get real-time information\ndef RealtimeInformation():\n    current_time = datetime.datetime.now()\n    return f\"Day: {current_time.strftime('%A')}, Date: {current_time.strftime('%d-%B-%Y')}, Time: {current_time.strftime('%H:%M:%S')}.\"",
         "detail": "Backend.Chatbot",
         "documentation": {}
     },
@@ -1788,11 +1797,20 @@
         "documentation": {}
     },
     {
+        "label": "detect_language",
+        "kind": 2,
+        "importPath": "Backend.TextToSpeech",
+        "description": "Backend.TextToSpeech",
+        "peekOfCode": "def detect_language(text: str) -> str:\n    \"\"\"Detect if the text is in Hindi or English.\"\"\"\n    hindi_pattern = re.compile(\"[\\u0900-\\u097F]+\")\n    return \"hindi\" if hindi_pattern.search(text) else \"english\"\nasync def TextToAudioFile(text: str) -> None:\n    \"\"\"Convert text to an audio file using edge_tts with the preferred Indian female voice.\"\"\"\n    if os.path.exists(file_path):\n        os.remove(file_path)\n    communicate = edge_tts.Communicate(text, PreferredVoice, pitch='+5Hz', rate='+13%')\n    await communicate.save(file_path)",
+        "detail": "Backend.TextToSpeech",
+        "documentation": {}
+    },
+    {
         "label": "TTS",
         "kind": 2,
         "importPath": "Backend.TextToSpeech",
         "description": "Backend.TextToSpeech",
-        "peekOfCode": "def TTS(text: str, func=lambda r=None: True) -> bool:\n    \"\"\"Text-to-speech function with pygame.\"\"\"\n    try:\n        asyncio.run(TextToAudioFile(text))\n        pygame.mixer.init()\n        pygame.mixer.music.load(file_path)\n        pygame.mixer.music.play()\n        while pygame.mixer.music.get_busy():\n            if not func():\n                break",
+        "peekOfCode": "def TTS(text: str, func=lambda r=None: True) -> bool:\n    \"\"\"Text-to-speech function with pygame, supporting automatic language detection.\"\"\"\n    try:\n        asyncio.run(TextToAudioFile(text))\n        pygame.mixer.init()\n        pygame.mixer.music.load(file_path)\n        pygame.mixer.music.play()\n        while pygame.mixer.music.get_busy():\n            if not func():\n                break",
         "detail": "Backend.TextToSpeech",
         "documentation": {}
     },
@@ -1801,7 +1819,7 @@
         "kind": 2,
         "importPath": "Backend.TextToSpeech",
         "description": "Backend.TextToSpeech",
-        "peekOfCode": "def TextToSpeech(text: str, func=lambda r=None: True):\n    \"\"\"Handle text and decide whether to split or play fully.\"\"\"\n    sentences = text.split(\".\")\n    responses = [\n        \"The rest of the result has been printed to the chat screen, kindly check it out sir.\",\n        \"The rest of the text is now on the chat screen, sir, please check it.\",\n        \"You can see the rest of the text on the chat screen, sir.\",\n        \"The remaining part of the text is now on the chat screen, sir.\",\n        \"Sir, you'll find more text on the chat screen for you to see.\",\n        \"The rest of the answer is now on the chat screen, sir.\",",
+        "peekOfCode": "def TextToSpeech(text: str, func=lambda r=None: True):\n    \"\"\"Handle text and decide whether to split or play fully, supporting automatic language detection.\"\"\"\n    sentences = text.split(\".\")\n    responses = [\n        \"The rest of the result has been printed to the chat screen, kindly check it out.\",\n        \"You can see the rest of the text on the chat screen.\",\n        \"The remaining part of the text is now on the chat screen.\",\n        \"बाकी का परिणाम चैट स्क्रीन पर छपा है, कृपया इसे देखें।\",\n        \"आप शेष पाठ को चैट स्क्रीन पर देख सकते हैं।\",\n        \"पाठ का शेष भाग अब चैट स्क्रीन पर है।\",",
         "detail": "Backend.TextToSpeech",
         "documentation": {}
     },
@@ -1810,16 +1828,25 @@
         "kind": 5,
         "importPath": "Backend.TextToSpeech",
         "description": "Backend.TextToSpeech",
-        "peekOfCode": "env_vars = dotenv_values(\".env\")\nAssistantVoice = env_vars.get(\"AssistantVoice\")\nif not AssistantVoice:\n    raise ValueError(\"AssistantVoice not found in .env file!\")\n# Cross-platform file path\nfile_path = os.path.join(\"Data\", \"speech.mp3\")\nasync def TextToAudioFile(text: str) -> None:\n    \"\"\"Convert text to an audio file using edge_tts.\"\"\"\n    if os.path.exists(file_path):\n        os.remove(file_path)",
+        "peekOfCode": "env_vars = dotenv_values(\".env\")\nPreferredVoice = env_vars.get(\"PreferredVoice\", \"hi-IN-SwaraNeural\")  # Use an Indian female voice\n# Validate voice\nvalid_voices = {\"hi-IN-SwaraNeural\", \"hi-IN-MadhurNeural\"}  # Update with actual valid Indian female voices\nif PreferredVoice not in valid_voices:\n    raise ValueError(\"Invalid preferred voice specified in .env file!\")\n# Cross-platform file path\nfile_path = os.path.join(\"Data\", \"Speech1.mp3\")\ndef detect_language(text: str) -> str:\n    \"\"\"Detect if the text is in Hindi or English.\"\"\"",
         "detail": "Backend.TextToSpeech",
         "documentation": {}
     },
     {
-        "label": "AssistantVoice",
+        "label": "PreferredVoice",
         "kind": 5,
         "importPath": "Backend.TextToSpeech",
         "description": "Backend.TextToSpeech",
-        "peekOfCode": "AssistantVoice = env_vars.get(\"AssistantVoice\")\nif not AssistantVoice:\n    raise ValueError(\"AssistantVoice not found in .env file!\")\n# Cross-platform file path\nfile_path = os.path.join(\"Data\", \"speech.mp3\")\nasync def TextToAudioFile(text: str) -> None:\n    \"\"\"Convert text to an audio file using edge_tts.\"\"\"\n    if os.path.exists(file_path):\n        os.remove(file_path)\n    communicate = edge_tts.Communicate(text, AssistantVoice, pitch='+5Hz', rate='+13%')",
+        "peekOfCode": "PreferredVoice = env_vars.get(\"PreferredVoice\", \"hi-IN-SwaraNeural\")  # Use an Indian female voice\n# Validate voice\nvalid_voices = {\"hi-IN-SwaraNeural\", \"hi-IN-MadhurNeural\"}  # Update with actual valid Indian female voices\nif PreferredVoice not in valid_voices:\n    raise ValueError(\"Invalid preferred voice specified in .env file!\")\n# Cross-platform file path\nfile_path = os.path.join(\"Data\", \"Speech1.mp3\")\ndef detect_language(text: str) -> str:\n    \"\"\"Detect if the text is in Hindi or English.\"\"\"\n    hindi_pattern = re.compile(\"[\\u0900-\\u097F]+\")",
+        "detail": "Backend.TextToSpeech",
+        "documentation": {}
+    },
+    {
+        "label": "valid_voices",
+        "kind": 5,
+        "importPath": "Backend.TextToSpeech",
+        "description": "Backend.TextToSpeech",
+        "peekOfCode": "valid_voices = {\"hi-IN-SwaraNeural\", \"hi-IN-MadhurNeural\"}  # Update with actual valid Indian female voices\nif PreferredVoice not in valid_voices:\n    raise ValueError(\"Invalid preferred voice specified in .env file!\")\n# Cross-platform file path\nfile_path = os.path.join(\"Data\", \"Speech1.mp3\")\ndef detect_language(text: str) -> str:\n    \"\"\"Detect if the text is in Hindi or English.\"\"\"\n    hindi_pattern = re.compile(\"[\\u0900-\\u097F]+\")\n    return \"hindi\" if hindi_pattern.search(text) else \"english\"\nasync def TextToAudioFile(text: str) -> None:",
         "detail": "Backend.TextToSpeech",
         "documentation": {}
     },
@@ -1828,7 +1855,7 @@
         "kind": 5,
         "importPath": "Backend.TextToSpeech",
         "description": "Backend.TextToSpeech",
-        "peekOfCode": "file_path = os.path.join(\"Data\", \"speech.mp3\")\nasync def TextToAudioFile(text: str) -> None:\n    \"\"\"Convert text to an audio file using edge_tts.\"\"\"\n    if os.path.exists(file_path):\n        os.remove(file_path)\n    communicate = edge_tts.Communicate(text, AssistantVoice, pitch='+5Hz', rate='+13%')\n    await communicate.save(file_path)\ndef TTS(text: str, func=lambda r=None: True) -> bool:\n    \"\"\"Text-to-speech function with pygame.\"\"\"\n    try:",
+        "peekOfCode": "file_path = os.path.join(\"Data\", \"Speech1.mp3\")\ndef detect_language(text: str) -> str:\n    \"\"\"Detect if the text is in Hindi or English.\"\"\"\n    hindi_pattern = re.compile(\"[\\u0900-\\u097F]+\")\n    return \"hindi\" if hindi_pattern.search(text) else \"english\"\nasync def TextToAudioFile(text: str) -> None:\n    \"\"\"Convert text to an audio file using edge_tts with the preferred Indian female voice.\"\"\"\n    if os.path.exists(file_path):\n        os.remove(file_path)\n    communicate = edge_tts.Communicate(text, PreferredVoice, pitch='+5Hz', rate='+13%')",
         "detail": "Backend.TextToSpeech",
         "documentation": {}
     },
